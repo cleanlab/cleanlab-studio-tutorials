@@ -31,7 +31,7 @@ def add_code_to_notebook(notebook_path, code):
 
 def main():
     # Define the folder containing the notebooks to test
-    notebook_folder = os.getcwd()
+    notebook_folder = os.path.join(os.getcwd(), "cleanlab-studio-web")
 
     # Define a list to store the names of notebooks that failed
     failed_notebooks = []

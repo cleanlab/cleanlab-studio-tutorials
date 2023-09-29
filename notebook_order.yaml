@@ -1,0 +1,9 @@
+# Cleanlab Studio Web
+data_labeling: 1
+
+# Cleanlab Studio API
+large_image_datasets: 1
+inference_api: 2
+synthetic_data: 3
+multiannotator: 4
+named_entity_recognition: 5

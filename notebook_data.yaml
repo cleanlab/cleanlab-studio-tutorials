@@ -4,22 +4,26 @@ data_labeling:
   sidebar_label: "Data Labeling"
 
 # Cleanlab Studio API
-large_image_datasets:
+image_data_quickstart:
   sidebar_position: 1
+  sidebar_label: "Image Data Quickstart"
+
+large_image_datasets:
+  sidebar_position: 2
   sidebar_label: "Large Image Datasets"
   
 inference_api:
-  sidebar_position: 2
+  sidebar_position: 3
   sidebar_label: "Model Deployment"
 
 synthetic_data:
-  sidebar_position: 3
+  sidebar_position: 4
   sidebar_label: "Synthetic Data Quality"
 
 multiannotator:
-  sidebar_position: 4
+  sidebar_position: 5
   sidebar_label: "Data Labeled by Multiple Annotators"
 
 named_entity_recognition:
-  sidebar_position: 5
+  sidebar_position: 6
   sidebar_label: "Named Entity Recognition"

@@ -3,6 +3,10 @@ data_labeling:
   sidebar_position: 1
   sidebar_label: "Data Labeling"
 
+multilabel:
+  sidebar_position: 2
+  sidebar_label: "Multi-label Data Quality"
+
 # Cleanlab Studio API
 image_data_quickstart:
   sidebar_position: 1

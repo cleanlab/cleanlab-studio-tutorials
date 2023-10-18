@@ -31,3 +31,7 @@ multiannotator:
 named_entity_recognition:
   sidebar_position: 6
   sidebar_label: "Named Entity Recognition"
+  
+tlm:
+  sidebar_position: 7
+  sidebar_label: "Trustworthy Language Model"

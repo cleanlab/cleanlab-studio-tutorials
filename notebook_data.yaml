@@ -16,26 +16,30 @@ text_data_quickstart:
   sidebar_position: 2
   sidebar_label: "Text Data Quickstart"
 
-large_image_datasets:
+tabular_data_quickstart:
   sidebar_position: 3
+  sidebar_label: "Tabular Data Quickstart"
+
+large_image_datasets:
+  sidebar_position: 4
   sidebar_label: "Large Image Datasets"
   
 inference_api:
-  sidebar_position: 4
+  sidebar_position: 5
   sidebar_label: "Model Deployment"
 
 synthetic_data:
-  sidebar_position: 5
+  sidebar_position: 6
   sidebar_label: "Synthetic Data Quality"
 
 multiannotator:
-  sidebar_position: 6
+  sidebar_position: 7
   sidebar_label: "Data Labeled by Multiple Annotators"
 
 named_entity_recognition:
-  sidebar_position: 7
+  sidebar_position: 8
   sidebar_label: "Named Entity Recognition"
   
 tlm:
-  sidebar_position: 8
+  sidebar_position: 9
   sidebar_label: "Trustworthy Language Model"

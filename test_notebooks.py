@@ -2,11 +2,13 @@ import os
 import shutil
 import subprocess
 import nbformat
+import os
+import datetime
 import requests  # Added requests for sending Slack messages
 
 
 def send_slack_message(message):
-    slack_webhook_url = "https://hooks.slack.com/services/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"
+    slack_webhook_url = os.getenv("SLACK_WEB_HOOK_URL")
     message = {"text": message}
     response = requests.post(slack_webhook_url, json=message)
     if response.status_code == 200:
@@ -17,21 +19,31 @@ def send_slack_message(message):
         )
 
 
-def add_code_to_notebook(notebook_path, code):
+def replace_code_in_notebook(notebook_path, old_code, new_code):
     with open(notebook_path, "r") as f:
         notebook = nbformat.read(f, as_version=4)
 
-    code_cell = nbformat.v4.new_code_cell(code)
-
-    notebook.cells.insert(0, code_cell)
+    for cell in notebook.cells:
+        if cell.cell_type == "code" and old_code in cell.source:
+            cell.source = cell.source.replace(old_code, new_code)
+            break
 
     with open(notebook_path, "w") as f:
         nbformat.write(notebook, f)
 
+old_code = 'API_KEY = "<insert your API key>"\nstudio = Studio(API_KEY)'
+new_code = 'import os\nAPI_KEY = os.getenv("CLEANLAB_API_KEY")'
+
+
+
+import os
+import subprocess
+import papermill as pm
+import time
 
 def main():
     # Define the folder containing the notebooks to test
-    notebook_folder = os.path.join(os.getcwd(), "cleanlab-studio-web")
+    notebook_folder = os.path.join(os.getcwd(), "cleanlab-studio-api")
 
     # Define a list to store the names of notebooks that failed
     failed_notebooks = []
@@ -41,33 +53,32 @@ def main():
         if notebook_name.endswith(".ipynb"):
             notebook_path = os.path.join(notebook_folder, notebook_name)
 
-            # Create a copy of the notebook
-            notebook_copy_path = os.path.join(
-                notebook_folder, f"{notebook_name}_copy.ipynb"
-            )
-            shutil.copy(notebook_path, notebook_copy_path)
-
-            # Add the code to the copied notebook
-            code_to_add = 'import os\nCLEANLAB_API_KEY = os.getenv("CLEANLAB_API_KEY")'
-            add_code_to_notebook(notebook_copy_path, code_to_add)
-
-            # Run the copied notebook using subprocess
+            # Run the notebook using Papermill
             try:
-                subprocess.check_call(
-                    [
-                        "jupyter",
-                        "nbconvert",
-                        "--to",
-                        "notebook",
-                        "--execute",
-                        notebook_copy_path,
-                    ]
+                output_notebook_path = os.path.join(
+                    notebook_folder, f"{notebook_name}_output.ipynb"
                 )
-            except subprocess.CalledProcessError:
+                replace_code_in_notebook(notebook_path, old_code, new_code)
+
+                # Add the code to the notebook before executing
+                code_to_add = 'import os\nCLEANLAB_API_KEY = os.environ["CLEANLAB_API_KEY"]'
+                pm.execute_notebook(
+                    notebook_path,
+                    output_notebook_path,
+                    parameters=dict(CLEANLAB_API_KEY=os.environ['CLEANLAB_API_KEY']),
+                    prepare_only=True,
+                )
+
+                # Overwrite the original notebook with the modified one
+                os.rename(output_notebook_path, notebook_path)
+
+                # Execute the notebook
+                pm.execute_notebook(notebook_path, notebook_path)
+            except Exception as e:
                 failed_notebooks.append(notebook_name)
 
-            # Delete the copied notebook
-            os.remove(notebook_copy_path)
+            # Add a 10-second pause
+            time.sleep(10)
 
     # Check for failed notebooks
     if failed_notebooks:
@@ -79,7 +90,6 @@ def main():
         print(
             f"All notebooks passed successfully at {datetime.now().strftime('%d/%m/%Y_%H:%M:%S')}"
         )
-
 
 if __name__ == "__main__":
     main()

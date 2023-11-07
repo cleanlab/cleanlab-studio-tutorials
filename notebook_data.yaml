@@ -54,7 +54,7 @@ named_entity_recognition:
 
 llm:
   sidebar_position: 11
-  sidebar_label: "Detecting Issues in LLM Outputs"
+  sidebar_label: "Assessing LLM Outputs"
   
 tlm:
   sidebar_position: 12

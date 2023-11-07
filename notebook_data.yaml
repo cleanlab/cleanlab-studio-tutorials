@@ -51,7 +51,11 @@ multiannotator:
 named_entity_recognition:
   sidebar_position: 10
   sidebar_label: "Named Entity Recognition"
+
+llm:
+  sidebar_position: 11
+  sidebar_label: "Detecting Issues in LLM Outputs"
   
 tlm:
-  sidebar_position: 11
+  sidebar_position: 12
   sidebar_label: "Trustworthy Language Model"

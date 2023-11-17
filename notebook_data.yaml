@@ -59,3 +59,7 @@ llm:
 tlm:
   sidebar_position: 12
   sidebar_label: "Trustworthy Language Model"
+
+databricks:
+  sidebar_position: 13
+  sidebar_label: "Databricks Integration"

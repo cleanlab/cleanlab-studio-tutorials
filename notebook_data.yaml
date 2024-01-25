@@ -79,3 +79,7 @@ tlm:
 databricks:
   sidebar_position: 16
   sidebar_label: "Databricks Integration"
+
+snowflake:
+  sidebar_position: 17
+  sidebar_label: "Snowflake Integration"

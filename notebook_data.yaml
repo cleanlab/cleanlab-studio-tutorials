@@ -52,37 +52,37 @@ multimodal_dataset:
   sidebar_position: 9
   sidebar_label: "Multimodal Product Catalog"
 
-growing_dataset:
-  sidebar_position: 10
-  sidebar_label: "Dynamically Growing Dataset"
-
 regression:
-  sidebar_position: 11
+  sidebar_position: 10
   sidebar_label: "Regression Tasks"
 
 unsupervised:
-  sidebar_position: 12
+  sidebar_position: 11
   sidebar_label: "Data Without Labels"
 
 synthetic_data:
-  sidebar_position: 13
+  sidebar_position: 12
   sidebar_label: "Synthetic Data Quality"
 
-multiannotator:
-  sidebar_position: 14
-  sidebar_label: "Data Labeled by Multiple Annotators"
-
-named_entity_recognition:
-  sidebar_position: 15
-  sidebar_label: "Named Entity Recognition"
-
 llm:
-  sidebar_position: 16
+  sidebar_position: 13
   sidebar_label: "Assessing LLM Outputs"
 
 tlm:
-  sidebar_position: 17
+  sidebar_position: 14
   sidebar_label: "Trustworthy Language Model"
+
+multiannotator:
+  sidebar_position: 15
+  sidebar_label: "Data Labeled by Multiple Annotators"
+
+named_entity_recognition:
+  sidebar_position: 16
+  sidebar_label: "Named Entity Recognition"
+
+growing_dataset:
+  sidebar_position: 17
+  sidebar_label: "Dynamically Growing Dataset"
 
 databricks:
   sidebar_position: 18

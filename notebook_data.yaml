@@ -40,13 +40,13 @@ large_image_datasets:
   sidebar_position: 6
   sidebar_label: "Large Image Datasets"
 
-inference_api:
+data_entry:
   sidebar_position: 7
-  sidebar_label: "Model Deployment"
+  sidebar_label: "Tabular Data Entry Errors"
 
-synthetic_data:
+inference_api:
   sidebar_position: 8
-  sidebar_label: "Synthetic Data Quality"
+  sidebar_label: "Model Deployment"
 
 multimodal_dataset:
   sidebar_position: 9
@@ -64,26 +64,31 @@ unsupervised:
   sidebar_position: 12
   sidebar_label: "Data Without Labels"
 
-multiannotator:
+synthetic_data:
   sidebar_position: 13
+  sidebar_label: "Synthetic Data Quality"
+
+multiannotator:
+  sidebar_position: 14
   sidebar_label: "Data Labeled by Multiple Annotators"
 
 named_entity_recognition:
-  sidebar_position: 14
+  sidebar_position: 15
   sidebar_label: "Named Entity Recognition"
 
 llm:
-  sidebar_position: 15
+  sidebar_position: 16
   sidebar_label: "Assessing LLM Outputs"
 
 tlm:
-  sidebar_position: 16
+  sidebar_position: 17
   sidebar_label: "Trustworthy Language Model"
 
 databricks:
-  sidebar_position: 17
+  sidebar_position: 18
   sidebar_label: "Databricks Integration"
 
 snowflake:
-  sidebar_position: 18
+  sidebar_position: 19
   sidebar_label: "Snowflake Integration"
+  

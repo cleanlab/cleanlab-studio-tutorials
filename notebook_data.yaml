@@ -3,16 +3,20 @@ data_labeling:
   sidebar_position: 1
   sidebar_label: "Data Labeling"
 
-multilabel:
-  sidebar_position: 2
-  sidebar_label: "Multi-label Data Quality"
-
 understanding_data:
-  sidebar_position: 3
+  sidebar_position: 2
   sidebar_label: "Understanding Your Data"
 
-multilabel_model_deployment:
+train_test:
+  sidebar_position: 3
+  sidebar_label: "Handling Train/Test Splits"
+
+multilabel:
   sidebar_position: 4
+  sidebar_label: "Multi-label Data Quality"
+
+multilabel_model_deployment:
+  sidebar_position: 5
   sidebar_label: "Multi-label Model Deployment"
 
 # Cleanlab Studio API

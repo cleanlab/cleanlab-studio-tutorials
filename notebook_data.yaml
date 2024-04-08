@@ -1,98 +1,51 @@
-# Cleanlab Studio Web
-data_labeling:
-  sidebar_position: 1
-  sidebar_label: "Data Labeling"
+Cleanlab Studio Web:
+  data_labeling:
+    sidebar_label: "Data Labeling"
+  understanding_data:
+    sidebar_label: "Understanding Your Data"
+  train_test:
+    sidebar_label: "Handling Train/Test Splits"
+  multilabel:
+    sidebar_label: "Multi-label Data Quality"
+  multilabel_model_deployment:
+    sidebar_label: "Multi-label Model Deployment"
 
-understanding_data:
-  sidebar_position: 2
-  sidebar_label: "Understanding Your Data"
-
-train_test:
-  sidebar_position: 3
-  sidebar_label: "Handling Train/Test Splits"
-
-multilabel:
-  sidebar_position: 4
-  sidebar_label: "Multi-label Data Quality"
-
-multilabel_model_deployment:
-  sidebar_position: 5
-  sidebar_label: "Multi-label Model Deployment"
-
-# Cleanlab Studio API
-image_data_quickstart:
-  sidebar_position: 1
-  sidebar_label: "Image Data Quickstart"
-
-text_data_quickstart:
-  sidebar_position: 2
-  sidebar_label: "Text Data Quickstart"
-
-tabular_data_quickstart:
-  sidebar_position: 3
-  sidebar_label: "Tabular Data Quickstart"
-
-format_image_data:
-  sidebar_position: 4
-  sidebar_label: "Formatting Image Datasets"
-
-format_text_data:
-  sidebar_position: 5
-  sidebar_label: "Formatting Text Datasets"
-
-large_image_datasets:
-  sidebar_position: 6
-  sidebar_label: "Large Image Datasets"
-
-data_entry:
-  sidebar_position: 7
-  sidebar_label: "Tabular Data Entry Errors"
-
-inference_api:
-  sidebar_position: 8
-  sidebar_label: "Model Deployment"
-
-multimodal_dataset:
-  sidebar_position: 9
-  sidebar_label: "Multimodal Product Catalog"
-
-regression:
-  sidebar_position: 10
-  sidebar_label: "Regression Tasks"
-
-unsupervised:
-  sidebar_position: 11
-  sidebar_label: "Data Without Labels"
-
-synthetic_data:
-  sidebar_position: 12
-  sidebar_label: "Synthetic Data Quality"
-
-llm:
-  sidebar_position: 13
-  sidebar_label: "Assessing LLM Outputs"
-
-tlm:
-  sidebar_position: 14
-  sidebar_label: "Trustworthy Language Model"
-
-multiannotator:
-  sidebar_position: 15
-  sidebar_label: "Data Labeled by Multiple Annotators"
-
-named_entity_recognition:
-  sidebar_position: 16
-  sidebar_label: "Named Entity Recognition"
-
-growing_dataset:
-  sidebar_position: 17
-  sidebar_label: "Dynamically Growing Dataset"
-
-databricks:
-  sidebar_position: 18
-  sidebar_label: "Databricks Integration"
-
-snowflake:
-  sidebar_position: 19
-  sidebar_label: "Snowflake Integration"
-  
+Cleanlab Studio API:
+  image_data_quickstart:
+    sidebar_label: "Image Data Quickstart"
+  text_data_quickstart:
+    sidebar_label: "Text Data Quickstart"
+  tabular_data_quickstart:
+    sidebar_label: "Tabular Data Quickstart"
+  format_image_data:
+    sidebar_label: "Formatting Image Datasets"
+  format_text_data:
+    sidebar_label: "Formatting Text Datasets"
+  large_image_datasets:
+    sidebar_label: "Large Image Datasets"
+  data_entry:
+    sidebar_label: "Tabular Data Entry Errors"
+  inference_api:
+    sidebar_label: "Model Deployment"
+  multimodal_dataset:
+    sidebar_label: "Multimodal Product Catalog"
+  regression:
+    sidebar_label: "Regression Tasks"
+  unsupervised:
+    sidebar_label: "Data Without Labels"
+  synthetic_data:
+    sidebar_label: "Synthetic Data Quality"
+  llm:
+    sidebar_label: "Assessing LLM Outputs"
+  tlm:
+    sidebar_label: "Trustworthy Language Model"
+  multiannotator:
+    sidebar_label: "Data Labeled by Multiple Annotators"
+  named_entity_recognition:
+    sidebar_label: "Named Entity Recognition"
+  growing_dataset:
+    sidebar_label: "Dynamically Growing Dataset"
+  databricks:
+    sidebar_label: "Databricks Integration"
+  snowflake:
+    sidebar_label: "Snowflake Integration"

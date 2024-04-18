@@ -39,6 +39,8 @@ Cleanlab Studio API:
     sidebar_label: "Assessing LLM Outputs"
   tlm:
     sidebar_label: "Trustworthy Language Model"
+  tlm_rag:
+    sidebar_label: "Trustworthy RAG with TLM"
   multiannotator:
     sidebar_label: "Data Labeled by Multiple Annotators"
   named_entity_recognition:

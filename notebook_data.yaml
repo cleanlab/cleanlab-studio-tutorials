@@ -51,3 +51,5 @@ Cleanlab Studio API:
     sidebar_label: "Trustworthy Language Model"
   tlm_rag:
     sidebar_label: "Trustworthy RAG with TLM"
+  tlm_text_extraction:
+    sidebar_label: "Data Extraction with TLM"

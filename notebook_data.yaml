@@ -47,11 +47,13 @@ Cleanlab Studio API:
     sidebar_label: "Databricks Integration"
   snowflake:
     sidebar_label: "Snowflake Integration"
+    
+Trustworthy Language Model:
   tlm:
-    sidebar_label: "Trustworthy Language Model"
+    sidebar_label: "Trustworthy Language Model Quickstart"
   tlm_rag:
     sidebar_label: "Trustworthy RAG with TLM"
-  tlm_text_extraction:
+  tlm_data_extraction:
     sidebar_label: "Data Extraction with TLM"
   tlm_custom_model:
     sidebar_label: "Turn your own LLM into a TLM"

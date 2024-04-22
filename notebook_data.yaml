@@ -55,3 +55,5 @@ Cleanlab Studio API:
     sidebar_label: "Data Extraction with TLM"
   tlm_custom_model:
     sidebar_label: "Turn your own LLM into a TLM"
+  instruction_tuning_data:
+    sidebar_label: "Detect Bad Instruction Tuning Data"

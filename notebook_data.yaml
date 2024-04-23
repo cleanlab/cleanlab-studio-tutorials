@@ -50,7 +50,7 @@ Cleanlab Studio API:
     
 Trustworthy Language Model:
   tlm:
-    sidebar_label: "Trustworthy Language Model Quickstart"
+    sidebar_label: "TLM Quickstart"
   tlm_rag:
     sidebar_label: "Trustworthy RAG with TLM"
   tlm_data_extraction:

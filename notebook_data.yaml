@@ -54,7 +54,9 @@ Trustworthy Language Model:
   tlm_rag:
     sidebar_label: "Trustworthy RAG with TLM"
   tlm_data_extraction:
-    sidebar_label: "Data Extraction with TLM"
+    sidebar_label: "Trustworthy Data Extraction"
+  zero_shot_classification:
+    sidebar_label: "Trustworthy Zero-Shot Classification"
   tlm_custom_model:
     sidebar_label: "Turn your own LLM into a TLM"
   instruction_tuning_data:

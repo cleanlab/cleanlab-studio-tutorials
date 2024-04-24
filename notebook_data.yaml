@@ -47,7 +47,9 @@ Cleanlab Studio API:
     sidebar_label: "Databricks Integration"
   snowflake:
     sidebar_label: "Snowflake Integration"
-    
+  data_annotation_label_studio:
+    sidebar_label: "3rd Party Data Annotation Platforms"
+
 Trustworthy Language Model:
   tlm:
     sidebar_label: "TLM Quickstart"

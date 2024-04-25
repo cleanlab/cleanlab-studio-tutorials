@@ -1,3 +1,17 @@
+Trustworthy Language Model:
+  tlm:
+    sidebar_label: "TLM Quickstart"
+  tlm_rag:
+    sidebar_label: "Trustworthy RAG with TLM"
+  tlm_data_extraction:
+    sidebar_label: "Trustworthy Data Extraction"
+  zero_shot_classification:
+    sidebar_label: "Trustworthy Zero-Shot Classification"
+  tlm_custom_model:
+    sidebar_label: "Turn your own LLM into a TLM"
+  instruction_tuning_data:
+    sidebar_label: "Detect Bad Instruction Tuning Data"
+
 Cleanlab Studio Web:
   data_labeling:
     sidebar_label: "Data Labeling"
@@ -49,17 +63,3 @@ Cleanlab Studio API:
     sidebar_label: "Snowflake Integration"
   data_annotation_label_studio:
     sidebar_label: "3rd Party Data Annotation Platforms"
-
-Trustworthy Language Model:
-  tlm:
-    sidebar_label: "TLM Quickstart"
-  tlm_rag:
-    sidebar_label: "Trustworthy RAG with TLM"
-  tlm_data_extraction:
-    sidebar_label: "Trustworthy Data Extraction"
-  zero_shot_classification:
-    sidebar_label: "Trustworthy Zero-Shot Classification"
-  tlm_custom_model:
-    sidebar_label: "Turn your own LLM into a TLM"
-  instruction_tuning_data:
-    sidebar_label: "Detect Bad Instruction Tuning Data"

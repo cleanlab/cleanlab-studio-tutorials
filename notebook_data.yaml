@@ -31,6 +31,8 @@ Cleanlab Studio API:
     sidebar_label: "Text Data Quickstart"
   tabular_data_quickstart:
     sidebar_label: "Tabular Data Quickstart"
+  document_data_quickstart:
+    sidebar_label: "Document Data Quickstart"
   format_image_data:
     sidebar_label: "Formatting Image Datasets"
   format_text_data:

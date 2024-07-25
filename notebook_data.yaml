@@ -1,6 +1,8 @@
 Trustworthy Language Model:
   tlm:
     sidebar_label: "TLM Quickstart"
+  tlm_advanced:
+    sidebar_label: "TLM Advanced Tutorial"
   tlm_rag:
     sidebar_label: "Trustworthy RAG with TLM"
   tlm_data_extraction:

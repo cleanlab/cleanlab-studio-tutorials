@@ -25,6 +25,8 @@ Cleanlab Studio Web:
     sidebar_label: "Multi-label Data Quality"
   multilabel_model_deployment:
     sidebar_label: "Multi-label Model Deployment"
+  creating_new_classes:
+    sidebar_label: "Introduce New Classes"
 
 Cleanlab Studio API:
   image_data_quickstart:

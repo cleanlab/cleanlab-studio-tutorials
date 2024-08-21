@@ -67,5 +67,7 @@ Cleanlab Studio API:
     sidebar_label: "Databricks Integration"
   snowflake:
     sidebar_label: "Snowflake Integration"
+  bigquery_dataset:
+    sidebar_label: "BigQuery Integration"
   data_annotation_label_studio:
     sidebar_label: "3rd Party Data Annotation Platforms"

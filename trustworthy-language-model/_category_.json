@@ -2,9 +2,5 @@
   "position": 2,
   "label": "Trustworthy Language Model",
   "collapsible": true,
-  "collapsed": false,
-  "link": {
-    "type": "doc",
-    "id": "tutorials/notebooks/trustworthy-language-model/index"
-  }
+  "collapsed": false
 }

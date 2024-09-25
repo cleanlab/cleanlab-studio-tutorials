@@ -3,6 +3,8 @@ Trustworthy Language Model:
     sidebar_label: "TLM Quickstart"
   tlm_advanced:
     sidebar_label: "TLM Advanced Tutorial"
+  tlm_custom_eval:
+    sidebar_label: "Custom Evaluation Criteria"
   tlm_rag:
     sidebar_label: "Trustworthy RAG with TLM"
   tlm_data_extraction:

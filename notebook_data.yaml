@@ -5,14 +5,16 @@ Trustworthy Language Model:
     sidebar_label: "TLM Advanced Tutorial"
   tlm_custom_eval:
     sidebar_label: "Custom Evaluation Criteria"
+  tlm_custom_model:
+    sidebar_label: "Turn your own LLM into a TLM"
+  
+TLM Use Cases:
   tlm_rag:
     sidebar_label: "Trustworthy RAG with TLM"
   tlm_data_extraction:
     sidebar_label: "Trustworthy Data Extraction"
   zero_shot_classification:
     sidebar_label: "Trustworthy Zero-Shot Classification"
-  tlm_custom_model:
-    sidebar_label: "Turn your own LLM into a TLM"
   instruction_tuning_data:
     sidebar_label: "Detect Bad Instruction Tuning Data"
 

@@ -31,14 +31,22 @@ Cleanlab Studio Web:
     sidebar_label: "Introduce New Classes"
 
 Cleanlab Studio API:
-  image_data_quickstart:
-    sidebar_label: "Image Data Quickstart"
   text_data_quickstart:
     sidebar_label: "Text Data Quickstart"
+  image_data_quickstart:
+    sidebar_label: "Image Data Quickstart"
   tabular_data_quickstart:
     sidebar_label: "Tabular Data Quickstart"
   document_data_quickstart:
     sidebar_label: "Document Data Quickstart"
+  llm:
+    sidebar_label: "Assessing LLM Outputs"
+  named_entity_recognition:
+    sidebar_label: "Named Entity Recognition"
+  synthetic_data:
+    sidebar_label: "Synthetic Data Quality"
+  data_annotation_label_studio:
+    sidebar_label: "3rd Party Data Annotation Platforms"
   format_image_data:
     sidebar_label: "Formatting Image Datasets"
   format_text_data:
@@ -55,14 +63,8 @@ Cleanlab Studio API:
     sidebar_label: "Regression Tasks"
   unsupervised:
     sidebar_label: "Data Without Labels"
-  synthetic_data:
-    sidebar_label: "Synthetic Data Quality"
-  llm:
-    sidebar_label: "Assessing LLM Outputs"
   multiannotator:
     sidebar_label: "Data Labeled by Multiple Annotators"
-  named_entity_recognition:
-    sidebar_label: "Named Entity Recognition"
   growing_dataset:
     sidebar_label: "Dynamically Growing Dataset"
   databricks:
@@ -71,5 +73,3 @@ Cleanlab Studio API:
     sidebar_label: "Snowflake Integration"
   bigquery_dataset:
     sidebar_label: "BigQuery Integration"
-  data_annotation_label_studio:
-    sidebar_label: "3rd Party Data Annotation Platforms"

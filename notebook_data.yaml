@@ -17,6 +17,8 @@ TLM Use Cases:
     sidebar_label: "Trustworthy Zero-Shot Classification"
   instruction_tuning_data:
     sidebar_label: "Detect Bad Instruction Tuning Data"
+  tlm_data_curation_for_reliable_rag:
+    sidebar_label: "Data Curation for Reliable RAG"
 
 Cleanlab Studio Web:
   data_labeling:

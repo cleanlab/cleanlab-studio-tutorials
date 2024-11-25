@@ -2,6 +2,6 @@
   "position": 3,
   "label": "Web Interface",
   "collapsible": true,
-  "collapsed": true,
+  "collapsed": false,
   "link": null
 }

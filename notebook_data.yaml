@@ -7,6 +7,8 @@ Trustworthy Language Model:
     sidebar_label: "Custom Evaluation Criteria"
   tlm_custom_model:
     sidebar_label: "Turn your own LLM into a TLM"
+  tlm_structured_outputs:
+    sidebar_label: "Using TLM via the OpenAI API"
   
 TLM Use Cases:
   tlm_rag:

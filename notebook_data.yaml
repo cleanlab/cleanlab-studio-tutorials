@@ -45,34 +45,34 @@ Cleanlab Studio API:
     sidebar_label: "Tabular Data Quickstart"
   document_data_quickstart:
     sidebar_label: "Document Data Quickstart"
-  llm:
-    sidebar_label: "Assessing LLM Outputs"
-  named_entity_recognition:
-    sidebar_label: "Named Entity Recognition"
-  synthetic_data:
-    sidebar_label: "Synthetic Data Quality"
-  data_annotation_label_studio:
-    sidebar_label: "3rd Party Data Annotation Platforms"
-  format_image_data:
-    sidebar_label: "Formatting Image Datasets"
-  format_text_data:
-    sidebar_label: "Formatting Text Datasets"
-  large_image_datasets:
-    sidebar_label: "Large Image Datasets"
   data_entry:
     sidebar_label: "Tabular Data Entry Errors"
-  inference_api:
-    sidebar_label: "Model Deployment"
   multimodal_dataset:
     sidebar_label: "Multimodal Product Catalog"
-  regression:
-    sidebar_label: "Regression Tasks"
+  data_annotation_label_studio:
+    sidebar_label: "3rd Party Data Annotation Platforms"
+  synthetic_data:
+    sidebar_label: "Synthetic Data Quality"
+  format_text_data:
+    sidebar_label: "Formatting Text Datasets"
+  format_image_data:
+    sidebar_label: "Formatting Image Datasets"
+  large_image_datasets:
+    sidebar_label: "Large Image Datasets"
   unsupervised:
     sidebar_label: "Data Without Labels"
-  multiannotator:
-    sidebar_label: "Data Labeled by Multiple Annotators"
+  regression:
+    sidebar_label: "Regression Tasks"
   growing_dataset:
     sidebar_label: "Dynamically Growing Dataset"
+  multiannotator:
+    sidebar_label: "Data Labeled by Multiple Annotators"
+  named_entity_recognition:
+    sidebar_label: "Named Entity Recognition"
+  llm:
+    sidebar_label: "Assessing LLM Outputs"
+  inference_api:
+    sidebar_label: "Model Deployment"
   databricks:
     sidebar_label: "Databricks Integration"
   snowflake:

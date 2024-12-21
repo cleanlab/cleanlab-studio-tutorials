@@ -21,6 +21,8 @@ TLM Use Cases:
     sidebar_label: "Detect Bad Instruction Tuning Data"
   tlm_data_curation_for_reliable_rag:
     sidebar_label: "Data Curation for Reliable RAG"
+  tlm_langchain:
+    sidebar_label: "Trustworthiness scoring for LangChain"
 
 Cleanlab Studio Web:
   data_labeling:

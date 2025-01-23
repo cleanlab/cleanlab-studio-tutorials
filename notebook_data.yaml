@@ -15,8 +15,6 @@ TLM Use Cases:
     sidebar_label: "Trustworthy RAG with TLM"
   tlm_data_extraction:
     sidebar_label: "Trustworthy Data Extraction"
-  tlm_annotation:
-    sidebar_label: "Trustworthy Data Annotation"
   zero_shot_classification:
     sidebar_label: "Trustworthy Zero-Shot Classification"
   instruction_tuning_data:

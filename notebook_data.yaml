@@ -1,3 +1,33 @@
+Codex:
+  AWSKnowledgeBases_CodexAsBackup:
+    sidebar_label: "Codex as a Backup"
+  AWSKB_ToolCalls:
+    sidebar_label: "Adding Tools to RAG"
+  AWSKB_AddingCodexAsTool:
+    sidebar_label: "Codex as a Tool"
+  LlamaIndex_CodexAsTool:
+    sidebar_label: "Codex as a Tool"
+  LlamaIndex_ToolCalls:
+    sidebar_label: "Adding Tools to RAG"
+  langchain_CodexAsTool:
+    sidebar_label: "Codex as a Tool"
+  langchain_ToolCalls:
+    sidebar_label: "Adding Tools to RAG"
+  OpenAIAssistants_CodexAsBackup:
+    sidebar_label: "Codex as a Backup"
+
+  OpenAIAssistants_AddingCodexAsTool:
+    sidebar_label: "Codex as a Tool"
+  OpenAIAssistants_ToolCalls:
+    sidebar_label: "Build an Assistant"
+  OtherRAG_CodexAsTool:
+    sidebar_label: "Codex as a Tool"
+  OtherRAG_ToolCalls:
+    sidebar_label: "Adding Tools to RAG"
+  CodexAsBackupOptions:
+    sidebar_label: "Codex-as-Backup Options"
+
+
 Trustworthy Language Model:
   tlm:
     sidebar_label: "TLM Quickstart"
@@ -9,6 +39,7 @@ Trustworthy Language Model:
     sidebar_label: "Turn your own LLM into a TLM"
   tlm_structured_outputs:
     sidebar_label: "Using TLM via the OpenAI API"
+    
   
 TLM Use Cases:
   tlm_rag:

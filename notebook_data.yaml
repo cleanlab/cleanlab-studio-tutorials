@@ -49,6 +49,8 @@ TLM Use Cases:
     sidebar_label: "Trustworthy Data Annotation"
   zero_shot_classification:
     sidebar_label: "Trustworthy Zero-Shot Classification"
+  tlm_yes_no_decision:
+    sidebar_label: "Yes/No Decisions"
   instruction_tuning_data:
     sidebar_label: "Detect Bad Instruction Tuning Data"
   tlm_data_curation_for_reliable_rag:

@@ -1,7 +1,8 @@
 {
-  "position": 4,
-  "label": "Other RAG Frameworks",
-  "collapsible": true,
-  "collapsed": false,
-  "link": null
+    "collapsible": true,
+    "collapsed": false,
+    "link": {
+        "type": "doc",
+        "id": "index"
+    }
 }

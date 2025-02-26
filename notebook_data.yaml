@@ -13,11 +13,11 @@ Codex:
     sidebar_label: "Codex as a Tool"
   OpenAIAssistants_ToolCalls:
     sidebar_label: "Build an Assistant"
-  AWSKnowledgeBases_CodexAsBackup:
+  AWSBedrock_CodexAsBackup:
     sidebar_label: "Codex as a Backup"
-  AWSKB_AddingCodexAsTool:
+  AWSBedrock_AddingCodexAsTool:
     sidebar_label: "Codex as a Tool"
-  AWSKB_ToolCalls:
+  AWSBedrock_ToolCalls:
     sidebar_label: "Adding Tools to RAG"
   OtherRAG_CodexAsTool:
     sidebar_label: "Codex as a Tool"

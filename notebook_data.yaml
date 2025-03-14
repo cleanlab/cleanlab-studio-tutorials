@@ -46,7 +46,7 @@ Trustworthy Language Model:
   
 TLM Use Cases:
   tlm_rag:
-    sidebar_label: "Trustworthy RAG with TLM"
+    sidebar_label: "Trustworthy RAG"
   tlm_data_extraction:
     sidebar_label: "Trustworthy Data Extraction"
   tlm_annotation:

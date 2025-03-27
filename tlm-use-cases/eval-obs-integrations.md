@@ -5,13 +5,11 @@ sidebar_label: Evals/Observability
 
 # Automatically Find Inaccurate LLM Responses in Evaluation and Observability Platforms
 
-Cleanlab's Trustworthy Language Model (TLM) enables evaluation and observability platform users to automatically identify low quality and hallucinated responses from any LLM trace.
+Cleanlab's Trustworthy Language Model (TLM) enables evaluation and observability platform users to quickly identify low quality and hallucinated responses from any LLM trace.
 
-With the increased usage of LLMs, there exists a growing need for observability, evaluation, and tracing platforms. These platforms enable users to trace and record the inputs and outputs of LLMs.
+TLM automatically finds the poor quality and incorrect LLM responses lurking within your production logs and traces. This helps you perform better Evals, with significantly less manual review and annotation work to find these bad responses yourself.
 
-TLM enables you to automatically find the poor quality and incorrect LLM responses lurking within your production logs and traces. This provides better Evals, with significantly less manual review and annotation work from your team.
-
-Here are integrations showing how TLM can be used with 3rd party observability platforms.
+The integrations below show how to use TLM with various 3rd party LLM evaluation/observability platforms.
 
 ## Arize Phoenix
 

@@ -25,6 +25,8 @@ Codex:
     sidebar_label: "Adding Tools to RAG"
   CodexAsBackupOptions:
     sidebar_label: "Codex-as-Backup Options"
+  validator:
+    sidebar_label: "Codex as a Backup"
   smolagents_AddingCodexAsTool:
     sidebar_label: "Codex as a Tool"
   smolagents_ToolCalls:

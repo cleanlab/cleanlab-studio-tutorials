@@ -18,3 +18,11 @@ The integrations below show how to use TLM with various 3rd party LLM evaluation
 - [Documentation for Cleanlab Integration](https://docs.arize.com/phoenix/integrations/cleanlab)
 - [Github Example](https://github.com/Arize-ai/phoenix/blob/main/tutorials/integrations/evaluating_traces_cleanlabTLM.ipynb)
 - [Colab Example](https://colab.research.google.com/github/Arize-ai/phoenix/blob/main/tutorials/integrations/evaluating_traces_cleanlabTLM.ipynb)
+
+## Langfuse
+
+[Langfuse](https://langfuse.com/) is an open-source platform for LLM engineering.
+
+- [Documentation for Cleanlab Integration](https://langfuse.com/docs/integrations/other/cleanlab)
+- [Github Example](https://github.com/langfuse/langfuse-docs/blob/main/cookbook/evaluation_of_llms_with_cleanlab.ipynb)
+- [Colab Example](https://colab.research.google.com/github/langfuse/langfuse-docs/blob/main/cookbook/evaluation_of_llms_with_cleanlab.ipynb)

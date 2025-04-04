@@ -84,7 +84,7 @@ We provide tutorials for many different RAG frameworks, as well as [types of Cod
                             },
                             {
                                 "value": "Backup",
-                                "contents": "[Guide: Codex as a Backup with any RAG framework](/codex/tutorials/advanced/CodexAsBackupOptions/)"
+                                "contents": "[Guide: Codex as a Backup with any RAG framework](/codex/tutorials/advanced/validator/)"
                             }
                         ]
                     }

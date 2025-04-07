@@ -79,12 +79,12 @@ We provide tutorials for many different RAG frameworks, as well as [types of Cod
                         "question": "integration",
                         "options": [
                             {
-                                "value": "Tool",
-                                "contents": "[Guide: Codex as a Tool with any RAG framework](/codex/tutorials/other_rag_frameworks/OtherRAG_CodexAsTool/)"
+                                "value": "Backup (recommended)",
+                                "contents": "[Guide: Codex as a Backup with any RAG framework](/codex/tutorials/other_rag_frameworks/validator/)"
                             },
                             {
-                                "value": "Backup",
-                                "contents": "[Guide: Codex as a Backup with any RAG framework](/codex/tutorials/advanced/validator/)"
+                                "value": "Tool",
+                                "contents": "[Guide: Codex as a Tool with any RAG framework](/codex/tutorials/other_rag_frameworks/OtherRAG_CodexAsTool/)"
                             }
                         ]
                     }

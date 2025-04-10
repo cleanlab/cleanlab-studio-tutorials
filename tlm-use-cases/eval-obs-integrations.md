@@ -26,3 +26,11 @@ The integrations below show how to use TLM with various 3rd party LLM evaluation
 - [Documentation for Cleanlab Integration](https://langfuse.com/docs/integrations/other/cleanlab)
 - [Github Example](https://github.com/langfuse/langfuse-docs/blob/main/cookbook/evaluation_of_llms_with_cleanlab.ipynb)
 - [Colab Example](https://colab.research.google.com/github/langfuse/langfuse-docs/blob/main/cookbook/evaluation_of_llms_with_cleanlab.ipynb)
+
+## MLflow
+
+[MLflow](https://mlflow.org/) is an open source MLOps platform for GenAI applications.
+
+- [Documentation for Cleanlab Integration](https://mlflow.org/blog/tlm-tracing)
+- [Github Example](https://github.com/cleanlab/cleanlab-tools/blob/main/TLM-MLflow-Integration/evaluating_traces_TLM_mlflow_dl.ipynb)
+- [Colab Example](https://colab.research.google.com/github/cleanlab/cleanlab-tools/blob/main/TLM-MLflow-Integration/evaluating_traces_TLM_mlflow_dl.ipynb)

@@ -34,3 +34,10 @@ The integrations below show how to use TLM with various 3rd party LLM evaluation
 - [Documentation for Cleanlab Integration](https://mlflow.org/blog/tlm-tracing)
 - [Github Example](https://github.com/cleanlab/cleanlab-tools/blob/main/TLM-MLflow-Integration/evaluating_traces_TLM_mlflow_dl.ipynb)
 - [Colab Example](https://colab.research.google.com/github/cleanlab/cleanlab-tools/blob/main/TLM-MLflow-Integration/evaluating_traces_TLM_mlflow_dl.ipynb)
+
+## Langtrace AI
+
+[Langtrace AI](https://www.langtrace.ai/) is an open-source observability platform for AI agents.
+
+- [Documentation for Cleanlab Integration](https://docs.langtrace.ai/supported-integrations/llm-frameworks/cleanlab)
+- [Blog Post](https://www.langtrace.ai/blog/langtrace-adds-support-for-cleanlab-tlm)

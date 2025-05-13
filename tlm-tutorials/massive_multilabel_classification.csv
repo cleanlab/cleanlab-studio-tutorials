@@ -1,0 +1,1001 @@
+text,labels
+open temperature. put that song in my favorite list. remind,"['weather_query', 'music_likeness', 'calendar_set']"
+hey what time is it in london now. let's have the lights blue. please schedule a meeting with derrick in haysi at noon,"['datetime_query', 'iot_hue_lightchange', 'calendar_set']"
+best paid jobs in digital marketing in my area. remove birthday from calendar. open company name and find complaints,"['general_quirky', 'calendar_remove', 'social_post']"
+what did vogue post today. i need some details about bruce lee please assist. what jacket should i wear. did you place the reminder about the meeting for tomorrow,"['news_query', 'qa_factoid', 'weather_query', 'calendar_query']"
+please book a train ticket from london to manchester. what shops are round here. what date is it today,"['transport_ticket', 'recommendation_locations', 'datetime_query']"
+olly if any new news comes out about the flood can you let me know right away. set an alert for two p. m.. did i remember to set a reminder alarm for my next doctor's appointment,"['news_query', 'alarm_set', 'alarm_query']"
+please clear my calendar,['calendar_remove']
+does pink have a new baby. give me the description of a smartphone circuit. send an email to juanpedro at gmail dot com,"['qa_factoid', 'qa_definition', 'email_sendemail']"
+alert me at the time of the event. will the temperature be higher than forty tomorrow. check email about my job. did anyone like my photo i just posted,"['calendar_set', 'weather_query', 'email_query', 'social_query']"
+remove the list,['lists_remove']
+dictate email. is the song by shakira. clear everything off my calendar for the rest of the year,"['email_sendemail', 'music_query', 'calendar_remove']"
+are there any new emails received after four o'clock today,['email_query']
+play the oldies station. what size is a sperm whale. set a repeating reminder alarm for the facebook event i have to attend on seventh april,"['play_radio', 'qa_factoid', 'alarm_set']"
+remove pencil from stationary. find today's wapo articles about trump,"['lists_remove', 'news_query']"
+what is the difference between roman and grigorean calendar. tell me that list i wrote two days ago,"['qa_factoid', 'lists_query']"
+i want you to go to hot one hundred and five on the radio,['play_radio']
+news from c. n. n.,['news_query']
+need to check my list. set repeating reminder for every sunday,"['lists_query', 'calendar_set']"
+can you play me a rap song on the radio. olly tell me the time in g. m. t. plus five. do not speak today. please play this playback on audiobook,"['play_radio', 'datetime_convert', 'audio_volume_mute', 'play_audiobook']"
+have i received any emails since noon. start podcasts on n. f. l.. what are the coordinates of the equator. remove the second row from the list,"['email_query', 'play_podcasts', 'qa_factoid', 'lists_remove']"
+give me the train time. birthday. tweet esurance and tell them they suck. create reminder for laundry at eight p. m.,"['transport_query', 'calendar_set', 'social_post', 'calendar_set']"
+please tune nine hundred and thirty eight f. m. radio mirchi,['play_radio']
+what's the date,['datetime_query']
+hows the food order going,['takeaway_query']
+do they deliver home. can you delete the next event. play me a random audio book that has to do with love. go backward thirty seconds,"['takeaway_query', 'calendar_remove', 'play_audiobook', 'play_podcasts']"
+add tomorrows dinner date to the calendar,['calendar_set']
+play slayer,['play_music']
+look for apple pie recipe. play football with me. what is the capitol of west virginia,"['cooking_recipe', 'play_game', 'qa_factoid']"
+read me new post on my feed,['social_query']
+turn up the brightness,['iot_hue_lightup']
+what date is it today. remind me to water my plants every tuesday thursday and saturday. what are my plans for the month of may. play me john's podcast,"['datetime_query', 'calendar_set', 'calendar_query', 'play_podcasts']"
+do i have a grocery list ready,['lists_query']
+how long will it take to get to the airport. how many square miles is the average country on earth,"['transport_query', 'qa_factoid']"
+what are the latest crime statistics for me area. make the light in here redder,"['news_query', 'iot_hue_lightchange']"
+meetings from twenty to twenty five june. list me the stock of apple right now. make an alarm for the meeting with bob at seven today. foreign exchange rates,"['calendar_query', 'qa_stock', 'alarm_set', 'qa_currency']"
+what's the temperature outside. please read my facebook feed. would you love to see. my set alarms,"['weather_query', 'social_query', 'iot_hue_lightchange', 'alarm_query']"
+run the vacuum. can you tell me the times the train leaves for chicago,"['iot_cleaning', 'transport_query']"
+i want to order chinese take-out,['takeaway_order']
+write and send email to my boss,['email_sendemail']
+do you know math,['qa_maths']
+will it be a sticky night. what artist is this. find john smith in contacts,"['weather_query', 'music_query', 'email_querycontact']"
+will i need an umbrella today,['weather_query']
+how is my order. open games. what are the b. b. c. poll predictions for the upcoming us elections,"['takeaway_query', 'play_game', 'news_query']"
+answer to pawel's email. tell me the recipe of. olly tweet apple that the iphone doesn't work,"['email_sendemail', 'cooking_recipe', 'social_post']"
+confirm a travel ticket to german. delete my list. what day does my birthday fall on this year june twenty seventh,"['transport_ticket', 'lists_remove', 'datetime_query']"
+tell me the temperature. what is the time in las vegas. make an order for noodles one pack make it as takeaway order. invite people to the calendar event,"['weather_query', 'datetime_query', 'takeaway_order', 'calendar_set']"
+open songs from major lazer. turn off the bathroom light please. add this person's email. how tall is brad pitt,"['play_music', 'iot_hue_lightoff', 'email_addcontact', 'qa_factoid']"
+change the lights in the living room to green and red,['iot_hue_lightchange']
+please remove this event from my calendar,['calendar_remove']
+can you tell me about the traffic. how long does it take to make vegetable lasagna. play next episode of harry potter by j. k. rowling. make a call to,"['transport_traffic', 'cooking_recipe', 'play_audiobook', 'email_querycontact']"
+erase all the events. resume my audio book from karl pilkington. tell me the profession of celebrity,"['calendar_remove', 'play_audiobook', 'qa_factoid']"
+what is new news for today,['news_query']
+define elaborate. look up the number of people living in miami florida,"['qa_definition', 'qa_factoid']"
+new pop music. remind me that i have a birthday party on the thirtieth. olly tell me my alarms,"['play_music', 'calendar_set', 'alarm_query']"
+did i get new emails from sarah,['email_query']
+start radio play,['play_radio']
+describe what a sphere is. please add dinner with mary to my calendar on saturday,"['qa_definition', 'calendar_set']"
+tell me the funniest joke that was ever told. what are my pending tasks. what is going on on december fourth,"['general_joke', 'calendar_query', 'calendar_query']"
+on friday please put dentist appointment at three. could you please play the song from the artist madonna. don't talk until i ask you to. please set the alarm for next friday at six thirty am,"['calendar_set', 'play_music', 'audio_volume_mute', 'alarm_set']"
+remove succeeding event. please clean my shopping list. what's the latest trump controversy,"['calendar_remove', 'lists_remove', 'news_query']"
+olly how long should i boil the egg,['cooking_recipe']
+i need to know the time right now what is it. tell my meetings for tomorrow morning,"['datetime_query', 'calendar_query']"
+take out the milk from the shopping list,['lists_remove']
+are there any free events on in my area today. meet with joe tomorrow at three,"['recommendation_events', 'calendar_set']"
+lets hear the united states of anxiety podcast. olly change the color of the lights. please add my pay days,"['play_podcasts', 'iot_hue_lightchange', 'calendar_set']"
+listen to radio,['play_radio']
+play the most popular elton john song,['play_music']
+what's jlo up to,['general_quirky']
+how many hours distance is between my location and new york. cancel everything on my calendar,"['datetime_convert', 'calendar_remove']"
+research the clients that will attend the meeting,['calendar_set']
+please read new emails. cancel all my appointments,"['email_query', 'calendar_remove']"
+is it going to rain later. save my opinion on adele's song. it's my mother's birthday today send me a notification every year on this date. resume my audio book from karl pilkington,"['weather_query', 'music_likeness', 'calendar_set', 'play_audiobook']"
+do i have any new emails in the last hour,['email_query']
+knock knock,['general_joke']
+facebook current stock rate. cancel business meeting on wednesday. what is the time now in new york,"['qa_stock', 'calendar_remove', 'datetime_query']"
+any mail from amazon today. at what time is the italian cafe closed between lunch and dinner,"['email_query', 'calendar_query']"
+a quarter to two,['datetime_query']
+give me up to date on sports news. what are today's sports news. i want to see the news. play me in tic tac toe,"['news_query', 'news_query', 'news_query', 'play_game']"
+can you book a train ticket,['transport_ticket']
+i need an alarm set for five hundred and thirty am tomorrow,['alarm_set']
+tell me when i have an event,['calendar_set']
+give me all available lists. i like music,"['lists_query', 'music_likeness']"
+what's sensational in time of india,['news_query']
+tell me the recipe of,['cooking_recipe']
+find the list. is the last order is ready,"['lists_query', 'takeaway_query']"
+could you please email john saying i'm on leave. remove my next event,"['email_sendemail', 'calendar_remove']"
+say the list,['lists_query']
+please clean my shopping list. bring me the title of current music. could you please play the song from the artist madonna. make the house lights amber at six p. m.,"['lists_remove', 'music_query', 'play_music', 'iot_hue_lightchange']"
+what's my schedule like today. can they provide takeaway. please read my new mails,"['calendar_query', 'takeaway_query', 'email_query']"
+from now on mute. who sings the song that i am listening to right now. is it wednesday,"['audio_volume_mute', 'music_query', 'datetime_query']"
+olly what events are happening in pondichery this weekend. that last email needs to be answer a. s. a. p.,"['recommendation_events', 'email_sendemail']"
+please set my alarm for five p. m.. can you send the email to the new email id,"['alarm_set', 'email_sendemail']"
+show me the events in my work calendar for next week,['calendar_set']
+how old are you. find a train ticket to philadelphia. is it friday,"['general_quirky', 'transport_ticket', 'calendar_query']"
+i want to make a note on my calendar for the event tomorrow at the library. how much is amazon stock. play romantic music in nash f. m. ninety two point seven,"['calendar_set', 'qa_stock', 'play_radio']"
+what is the least tornado prone state in the entire us,['qa_factoid']
+play song aces high. daily news. what's happening in france today,"['play_music', 'news_query', 'news_query']"
+erase that from my calendar,['calendar_remove']
+take out available louies. divide seventy six in two parts. give details of rock sand,"['takeaway_query', 'qa_maths', 'qa_definition']"
+show me news about trump. what day does my birthday fall on this year june twenty seventh. play the song i listen to the most. post my business on twitter,"['news_query', 'datetime_query', 'play_music', 'social_post']"
+order one pizza from pizza hut. please turn up the screen brightness all the way,"['takeaway_order', 'iot_hue_lightup']"
+can they do delivery. please schedule a meeting with this person,"['takeaway_query', 'calendar_set']"
+post hey everyone on facebook,['social_post']
+what i like today. reply thank you to john,"['general_quirky', 'email_sendemail']"
+please tell me the score of the game. my day was extremely hard,"['general_quirky', 'general_quirky']"
+olly anything else left on the list,['lists_query']
+open parcheese game for you and i. do you know math,"['play_game', 'qa_maths']"
+book train best deal. olly get me the popular news from b. b. c.. recipe please,"['transport_ticket', 'news_query', 'cooking_recipe']"
+dollar to euro exchange rate. shall i change my car tires to snow tires soon. song title. what is my schedule for the day,"['qa_currency', 'weather_query', 'music_query', 'calendar_query']"
+is there any special in politic,['news_query']
+what's on my to-do list. describe what a sphere is. consequences to actions,"['lists_query', 'qa_definition', 'qa_definition']"
+refer local current events,['recommendation_events']
+can you tell me a little about yourself,['general_quirky']
+describe hell,['qa_definition']
+when is the next time it will rain,['weather_query']
+could you repeat this event. send complaint via tweet to j. crew. send an email to my assistant clara to cancel all appointments for tomorrow,"['calendar_set', 'social_post', 'email_sendemail']"
+remove the latest alarm,['alarm_remove']
+how old is mariah carey. shut down the sound. how would you describe a ball,"['qa_factoid', 'audio_volume_mute', 'qa_definition']"
+hey check email. silence for two hours,"['email_query', 'audio_volume_mute']"
+play poker face by lady gaga. send this email to reply to the latest emails,"['play_music', 'email_sendemail']"
+which contact haven't i called in twelve months,['email_querycontact']
+what alarms did i set today. play only all music released between the year one thousand nine hundred and ninety and two thousand,"['alarm_query', 'play_music']"
+directions please,['transport_query']
+meeting reminders from three to five,['calendar_query']
+i want to hear limelight by rush. do i have emails from this sender. delete the alarm i just set. play bob dylan playlist,"['play_music', 'email_query', 'alarm_remove', 'play_music']"
+could you please play the song from the artist madonna,['play_music']
+why are we here. who are your developers. describe the new football game rules,"['general_quirky', 'general_quirky', 'general_quirky']"
+please play some jazz music,['play_music']
+cancel my seven am alarm,['alarm_remove']
+disable my okug. set lunch every day at twelve thirty. what was the first movie of morgan freeman. how old is clint eastwood,"['iot_wemo_off', 'calendar_set', 'qa_factoid', 'qa_factoid']"
+today i saw a bulldog,['general_quirky']
+lets have a chat,['general_quirky']
+remind me the meeting with allen on fifteenth march. how about you,"['calendar_set', 'general_quirky']"
+check unread emails from amy. show me events in sacramento,"['email_query', 'recommendation_events']"
+remind me about this. remind me to start supper this afternoon at five,"['calendar_set', 'calendar_set']"
+what are todays top podcasts,['play_podcasts']
+olly what do i have planned next. remove tonights dinner with shelly,"['calendar_query', 'calendar_remove']"
+brighten up the lighting,['iot_hue_lightup']
+i have a nine am meeting on wednesday send me a reminder,['calendar_set']
+what is the location of moldova. latest news on terrorism. facebook current stock rate. where is a walking trail near me,"['qa_factoid', 'news_query', 'qa_stock', 'recommendation_locations']"
+please retweet this post on twitter,['social_post']
+olly turn the light off in the living room. play techno music,"['iot_hue_lightoff', 'play_music']"
+tell me how to make a poor boy sandwich,['cooking_recipe']
+do you know any jokes. please find the radio station currently playing howard stern. what is the trending now. dim the lights in the living room,"['general_joke', 'play_radio', 'news_query', 'iot_hue_lightdim']"
+add business contacts to contact list,['lists_createoradd']
+delete alarm. when will the world end. can you please add an item to my grocery list,"['alarm_remove', 'general_quirky', 'lists_createoradd']"
+please tell me what is the time in sanfranscio. please find a contact number of jayesh and tell me,"['datetime_query', 'email_querycontact']"
+please alert me. turn off the alarm,"['calendar_set', 'alarm_remove']"
+if a pencil cost four dollars and a book ten dollars cost how much i should pay if i buy two pencil and three book. is the time currently correct for where i am located,"['qa_maths', 'datetime_query']"
+what is the latest news on donald trump,['news_query']
+enable my plug,['iot_wemo_on']
+google train tickets to washington d. c.. is there a meeting on my calendar this afternoon. who wrote this song,"['transport_ticket', 'calendar_query', 'music_query']"
+what is the make up of the chair. stock price. give me my facebook update every three hours,"['qa_factoid', 'qa_stock', 'social_query']"
+could you please confirm if leonardo is married,['qa_factoid']
+hi can you please turn lower the lights. tell me if global warming is true. show me news about trump. send an email to juanpedro at gmail dot com,"['iot_hue_lightdim', 'general_quirky', 'news_query', 'email_sendemail']"
+remind me on fifth march of every year to arrange wedding anniversary presents. what is the latest story from fox news. give the stock price details of motorolla. do i have a sales meeting today,"['calendar_set', 'news_query', 'qa_stock', 'calendar_query']"
+what is the population of new york. sticking to diet. have i gotten any new email,"['qa_factoid', 'general_quirky', 'email_query']"
+alexa start email. call the nearest thai restaurant with delivery. olly put dark colors instead of light ones in the house. let's have the lights blue,"['email_sendemail', 'takeaway_order', 'iot_hue_lightchange', 'iot_hue_lightchange']"
+will i need to carry around a brolly today. play atmosphere next. i'm so happy today i got tickets for the concert,"['weather_query', 'play_music', 'general_quirky']"
+how many hours distance is between my location and new york. currency exchange. will i need an umbrella today. hey what time is it in london now,"['datetime_convert', 'qa_currency', 'weather_query', 'datetime_query']"
+what time does the zach brown concert on june third begin. is traffic light. create an alarm for today at ten am. is there a groomer in town for cats only,"['calendar_query', 'transport_traffic', 'alarm_set', 'general_quirky']"
+read my grocery list. next song. olly play a good track from my favorite jazz player,"['lists_query', 'play_music', 'play_music']"
+what should i cook for supper. open a reminder about next weeks managers meeting on tuesday,"['cooking_recipe', 'calendar_set']"
+alexa turn the lights down to seven,['iot_hue_lightdim']
+what do i need to make lamb pathia. tell me how to make a poor boy sandwich,"['cooking_recipe', 'cooking_recipe']"
+should i bring an umbrella tomorrow,['weather_query']
+tell me all about hurricane. can you loop the playlist themes. speaker volume increase,"['qa_definition', 'play_music', 'audio_volume_up']"
+i want to see the next podcast available,['play_podcasts']
+where do most celebrities hang out,['qa_factoid']
+change my light color to blue and please turn off the kitchen light. what's the capital of kazakhstan. please check the weather in kansas,"['iot_hue_lightchange', 'qa_factoid', 'weather_query']"
+set me a meeting next tuesday at eleven am with jesse. start playing ringcast,"['calendar_set', 'play_podcasts']"
+give me a cooking tutorial,['cooking_recipe']
+what's the latest news on c. n. n.,['news_query']
+did i leave the light on in the garage. please retweet this post on twitter,"['iot_hue_lightoff', 'social_post']"
+tell me what's happening on instagram. olly let's hear wgrr one hundred and three point five,"['social_query', 'play_radio']"
+turn office lights off. tell me what's happening on instagram,"['iot_hue_lightoff', 'social_query']"
+date today. stream poker face by lady gaga. remove from my calendar meeting at nine am. put my dinner at red lobster on the calendar for today at nine,"['datetime_query', 'play_music', 'calendar_remove', 'calendar_set']"
+play my soundtrack. what days do i have booked. tell me about india location. add tal meeting on twenty first at seven,"['play_music', 'calendar_query', 'qa_factoid', 'calendar_set']"
+one dolla equals how much inr. set my alarm for twelve p. m.,"['qa_currency', 'alarm_set']"
+i want it to remember my preferences and recommend me things based on them when i ask. when will the world end,"['general_quirky', 'general_quirky']"
+remind me about the party tomorrow,['calendar_set']
+remind me to call mom every tuesday at ten am. can you really see russia from alaska,"['calendar_set', 'qa_factoid']"
+delete all the events in my calendar. when is the next time it will rain. what's the time in sydney now,"['calendar_remove', 'weather_query', 'datetime_query']"
+show me the contents of the list,['lists_query']
+what is one plus one. will you send a calendar invite out to james and alice for brunch at eleven am on tuesday,"['qa_maths', 'calendar_set']"
+please tweet at pizzahut i've been waiting for my delivery for now number nothappy. please make the lights natural,"['social_post', 'iot_hue_lightchange']"
+plant based news. in my calendar delete all of my golf events for the current month,"['news_query', 'calendar_remove']"
+tell me what i wore yesterday. is the time currently correct for where i am located,"['general_quirky', 'datetime_query']"
+read back my grocery list to me. turn on a country music station,"['lists_query', 'play_radio']"
+what do you think about future,['general_quirky']
+open bad religion folder. send email to tim at hotmail dot com. show me direction to my home. where is a walking trail near me,"['play_music', 'email_sendemail', 'transport_query', 'recommendation_locations']"
+did the price of walmart stock go up or down. what is the exchange rate for mexico money. set a reminder up next month to get my oil changed,"['qa_stock', 'qa_currency', 'calendar_set']"
+start the vacuum cleaner. initialize the robot vacuum. email notifications,"['iot_cleaning', 'iot_cleaning', 'email_query']"
+where are the rocky mountains. please rate current song as five stars,"['qa_factoid', 'music_likeness']"
+show me my meetings this friday. olly cancel all soccer practice alarms,"['calendar_query', 'alarm_remove']"
+please remind me to call mom in half an hour,['calendar_set']
+do i have any appointments. turn off the lights in the bathroom,"['calendar_query', 'iot_hue_lightoff']"
+math,['general_quirky']
+play ella fitzgerals get happy,['play_music']
+what region is miami located. next play justin bieber's sorry,"['qa_factoid', 'play_music']"
+are there any new emails received after four o'clock today. are there any alarms going off today,"['email_query', 'alarm_query']"
+tell me current time in los angels. how would you describe a happy birthday,"['datetime_query', 'qa_definition']"
+play song aces high,['play_music']
+what are meeting scheduled for today,['calendar_query']
+how much is the us dollar worth in canada,['qa_currency']
+have any emails come in since four hundred today. play slayer. what items are on my shopping list. play netflix on my p. s. four,"['email_query', 'play_music', 'lists_query', 'play_radio']"
+brightness ninety percent. alexa give me the headline news,"['iot_hue_lightchange', 'news_query']"
+clear out the problem. what is the increase in stock value over the past week of disney,"['general_quirky', 'qa_stock']"
+can you find me a furniture store near me. schedule a one hour appointment for saturday. send email to new contact,"['recommendation_locations', 'calendar_set', 'email_sendemail']"
+show me my latest social media activity,['social_query']
+put my dinner at red lobster on the calendar for today at nine. what day is the fifth,"['calendar_set', 'datetime_query']"
+find gluten free bakery near me,['recommendation_locations']
+will it be rainy tomorrow,['weather_query']
+recommend a movie for me,['recommendation_movies']
+in how many hours will it be midnight in london england. what reminders do i have. open contacts and call john smith. hey order two wings with french fries from the chinese food store,"['datetime_query', 'calendar_query', 'email_querycontact', 'takeaway_order']"
+make a new shopping list. can you write an email to chelsea. math. give me the time of the events,"['lists_createoradd', 'email_sendemail', 'general_quirky', 'calendar_query']"
+should i wear a jacket,['weather_query']
+where jackie chan currently live. take out the milk from the shopping list. please alert me to the time,"['qa_factoid', 'lists_remove', 'datetime_query']"
+remind me i take mom to the hairdresser's thursday at one thousand one hundred am,['calendar_set']
+start a competitive crossword for us. olly i need to hear some sad songs today. how many states have the death penalty,"['play_game', 'play_music', 'qa_factoid']"
+how far away is the sun. what's this week's weather. someone play the radio,"['qa_factoid', 'weather_query', 'play_radio']"
+tell me the news about share market ups and downs,['news_query']
+is this the least or most important moment in history ever,['general_quirky']
+put the lights off now,['iot_hue_lightoff']
+how old is emma watson newest boyfriend. change volume to thirty five percent. olly i am taking day off tomorrow. remove events from my list,"['qa_factoid', 'audio_volume_other', 'general_quirky', 'lists_remove']"
+please alert me a day before jeff's birthday. open audiobook. initiate polling for new email,"['calendar_set', 'play_audiobook', 'email_query']"
+say the list. could you tell me the time in london. find food and order. what are lady gagas most popular songs,"['lists_query', 'datetime_query', 'takeaway_order', 'music_query']"
+just let me know the important meetings with my boss over the week. how is the new movie swat,"['calendar_set', 'recommendation_movies']"
+could you please play the f. m. station which plays pop songs. what alarms did i set. can you book an uber after i left for office,"['play_radio', 'alarm_query', 'transport_taxi']"
+brighter. please slow down volume of speaker,"['iot_hue_lightup', 'audio_volume_down']"
+has anyone commented on my status,['social_query']
+find songs from my big band playlist. set a reminder for my daughters birthday. what's happening around the world,"['play_music', 'calendar_set', 'news_query']"
+please purchase a train ticket for this weekend,['transport_ticket']
+take out the milk from the shopping list,['lists_remove']
+is it going to rain later,['weather_query']
+shadi special podcast play it,['play_podcasts']
+please go to the next episode of the podcast. how much is the us dollar worth in canada,"['play_podcasts', 'qa_currency']"
+remember how i fell about this song. i want more light,"['music_likeness', 'iot_hue_lightup']"
+how long should i cook a steak to be medium. can you track my emotions based on the way i speak,"['cooking_recipe', 'general_quirky']"
+i want to listen to the latest mike and mike podcast. display list of recent emails. disable alarm for three p. m.. remove my car payment on my calendar,"['play_podcasts', 'email_query', 'alarm_remove', 'lists_remove']"
+what is the most current exchange rate in china. start radio channel eight hundred and eighty nine,"['qa_currency', 'play_radio']"
+i will require full cover jacket if it is too stormy in evening. open saga. when is the next time it will rain,"['weather_query', 'play_game', 'weather_query']"
+can i get delilah on the radio in the bedroom,['play_radio']
+i want to know about the brexit. give the stock price details of motorolla. have i received new emails in the last ten minutes. tell me the recipe of,"['news_query', 'qa_stock', 'email_query', 'cooking_recipe']"
+i had a bad day. how many hours distance is between my location and new york,"['general_quirky', 'datetime_convert']"
+can you remind me to order the turkey three weeks before thanksgiving. please play shape of you by said sheeran,"['calendar_set', 'play_music']"
+check for new email. check for emails from steve. enable my plug. tell me the train arrival time to new york,"['email_query', 'email_query', 'iot_wemo_on', 'transport_query']"
+what alarms are set. i need next week's lunch put on the calendar. show me painting exhibition in bay area,"['alarm_query', 'calendar_set', 'recommendation_events']"
+what's the sum of the two numbers four and six,['qa_maths']
+can you find me a furniture store near me. set repeating reminder for every sunday,"['recommendation_locations', 'calendar_set']"
+what does turbulence mean. i want to send an email to my family do you help me,"['qa_definition', 'email_sendemail']"
+remove the list,['lists_remove']
+current weather,['weather_query']
+play any song by joe prsaise. please turn up the screen brightness all the way,"['play_music', 'iot_hue_lightup']"
+describe the heart stone card game. which contact haven't i called in twelve months. the weather was bad today. hayathis daughter baby shower,"['qa_definition', 'email_querycontact', 'general_quirky', 'calendar_set']"
+do i have a date on friday. olly set alarm for reminder,"['calendar_query', 'alarm_set']"
+i need a recipe that is from ingredients on my shopping list,['cooking_recipe']
+what is the deepest point on earth,['qa_factoid']
+what is scheduled on my calendar today. share in friends post,"['calendar_query', 'social_post']"
+will trump visit russia anytime soon. switch off the lights. can you tell me the time it is. what do i have scheduled for the nineteenth at two p. m.,"['news_query', 'iot_hue_lightoff', 'datetime_query', 'calendar_query']"
+tell me today's date. clear my next activity. how do i set my coffee machine to make coffee,"['datetime_query', 'calendar_remove', 'iot_coffee']"
+what day is the fifth. compose a new email to ray. what time is it in pacific standard time,"['datetime_query', 'email_sendemail', 'datetime_query']"
+great song for the commute,['music_likeness']
+what are the b. b. c. poll predictions for the upcoming us elections. hey what has been happening interesting in sports lately,"['news_query', 'general_quirky']"
+what is the current time,['datetime_query']
+i need a cup of coffee. mute please. i want to remove apples from list,"['iot_coffee', 'audio_volume_mute', 'lists_remove']"
+what's the temperature outside. show me my meetings this friday,"['weather_query', 'calendar_query']"
+set alarm six am. remind me to call mom every tuesday at ten am. please reduce the speaker volume,"['alarm_set', 'calendar_set', 'audio_volume_down']"
+what month is today,['datetime_query']
+play a game with me,['play_game']
+do i have any new emails in the last hour. remove tuesday alarm of nine am. play only my list. display the local time of london at this moment,"['email_query', 'alarm_remove', 'play_music', 'datetime_query']"
+make an alarm for the meeting with bob at seven today. please remind me to go to the post office. write an email to my family saying i love you all. please give me the winning lottery numbers for this weekend,"['alarm_set', 'calendar_set', 'email_sendemail', 'general_quirky']"
+what is the location of moldova,['qa_factoid']
+what is the current time. hello my item which i bought from some one has gone out of order. i need to get a ticket via train to orlando from hwood. what's up olly,"['datetime_query', 'social_post', 'transport_ticket', 'general_greet']"
+order a pizza with sausage from domino's. open google keep,"['takeaway_order', 'lists_query']"
+could you explain the meaning of exorbitant for me please. can you put in lee's birthday on the twenty second of june. play all order of the green hand from previous week. turn on my playlist and play third song in the queue,"['qa_definition', 'calendar_set', 'play_podcasts', 'play_music']"
+have any emails arrived in the last fifteen minutes. i've canceled the order placed at mcd did it go through,"['email_query', 'takeaway_query']"
+erase all the events in the calendar,['calendar_remove']
+remind me about my meeting an hour before it begins,['calendar_set']
+please start the coffee pot,['iot_coffee']
+how many lists do i have. play next podcast. what ingredients do i need to bake a large cake. what is six divided by two,"['lists_query', 'play_podcasts', 'cooking_recipe', 'qa_maths']"
+i would need to be notified of church services on sundays at eleven am,['calendar_set']
+what's happening around the world. i want tickets to the sold out concert on saturday night,"['news_query', 'general_quirky']"
+set a repeating reminder alarm for the facebook event i have to attend on seventh april. clear everything off my calendar for the rest of the year,"['alarm_set', 'calendar_remove']"
+tell me what i wore yesterday. remove from my calendar meeting at nine am. add my opinion to this song great. am i going to be able to mow the grass this evening,"['general_quirky', 'calendar_remove', 'music_likeness', 'weather_query']"
+what is the time difference between california and new york. current weather forecast,"['datetime_convert', 'weather_query']"
+tell me when i have an event. write an email for john at gmail dot com,"['calendar_set', 'email_sendemail']"
+can you create a sugar free diet for me and create a shopping list for the ingredients. tell me all the current events in my hometown,"['general_quirky', 'recommendation_events']"
+definition of velocity. erase all the events,"['qa_definition', 'calendar_remove']"
+is dinner ready yet,['takeaway_query']
+my choice to play an audio from first. please dim the lights. please turn on the wemo plug socket. i would like to reply to sarah's email,"['play_audiobook', 'iot_hue_lightdim', 'iot_wemo_on', 'email_sendemail']"
+tell me the local events. do you know math. has anyone follow me today on twitter today,"['recommendation_events', 'qa_maths', 'social_query']"
+show me events in sacramento. convert current time from g. m. t. to e. s. t.. fast. what ingredients do i need to bake a large cake,"['recommendation_events', 'datetime_convert', 'audio_volume_up', 'cooking_recipe']"
+tell me if i have any new messages in my inbox. play giants by banks and steelz,"['email_query', 'play_music']"
+remind upcoming meeting with eminem. i want to order chinese take-out. convert eight am manila time to new york time,"['calendar_set', 'takeaway_order', 'datetime_convert']"
+find geographic details of this place,['qa_factoid']
+any mail from amazon today. hi can you please turn lower the lights. i would like to reply to sarah's email. africa info,"['email_query', 'iot_hue_lightdim', 'email_sendemail', 'qa_factoid']"
+what year did this song come out. can you send the email to the new email id. olly clear the list. house can you make all the lights in the house blue,"['music_query', 'email_sendemail', 'lists_remove', 'iot_hue_lightchange']"
+are there any alarms going off today,['alarm_query']
+set reminder for noon to get lunch with boss,['calendar_set']
+i need to know the time right now what is it. house can you make all the lights in the house blue. add selected song,"['datetime_query', 'iot_hue_lightchange', 'play_music']"
+i need some details about bruce lee please assist. what is the time difference between here and japan,"['qa_factoid', 'datetime_convert']"
+delete all events from my calendar. title of song. please make me a cup of coffee. please start vacuum cleaner,"['calendar_remove', 'music_query', 'iot_coffee', 'iot_cleaning']"
+define blanket,['qa_definition']
+can you please stop speaking. olly do i have any new emails. what reminders did i set,"['audio_volume_mute', 'email_query', 'calendar_query']"
+i need to something every monday set a reminder for it. noodles one pack make it as takeaway,"['calendar_set', 'takeaway_order']"
+create a playlist,['lists_createoradd']
+how many lists do i have in contacts,['lists_query']
+please add an email for john doe to my contacts johndoe at yahoo dot com. start music app and play a song for me. play the song sung by katy perry,"['email_addcontact', 'play_music', 'play_music']"
+do i have any new emails from my contact q.. what is the menu today add some boiled vegetables also to it,"['email_query', 'cooking_recipe']"
+what time is it in central time zone. what's a good joke,"['datetime_query', 'general_joke']"
+what music is currently playing on,['music_query']
+give me the time of the events. send a funny message to all of my friends. resume series podcast,"['calendar_query', 'social_post', 'play_podcasts']"
+what is the location of moldova. i want to see the news,"['qa_factoid', 'news_query']"
+keep reading the audiobook to me. start sirius xm radio channel. what do you know about fringe in edinburgh next year. can you reply to charlotte that i am going to be busy with the projects for next three weeks,"['play_audiobook', 'play_radio', 'general_quirky', 'email_sendemail']"
+do i have any new emails in my inbox today. on monday the twentieth i need to have a conversation with greg about our weekend trip,"['email_query', 'calendar_set']"
+why does sofia vergara look so young. convert eight thirty from gtm four to g. m. t. five thirty,"['general_quirky', 'datetime_convert']"
+what is the time difference between california and new york,['datetime_convert']
+yes i like to save opinion on song playing and which player support that song. what's the currency exchange rate for china,"['music_likeness', 'qa_currency']"
+remove list item,['lists_remove']
+send an email to margaret. shut down the sound,"['email_sendemail', 'audio_volume_mute']"
+can i wear my sandals today. find an oscar nominee movie. two thumbs down at companyname. the weather was bad today,"['weather_query', 'recommendation_movies', 'social_post', 'general_quirky']"
+did i get new emails from sarah,['email_query']
+reply this mail. show me my latest social media activity,"['email_sendemail', 'social_query']"
+set a reminder for my daughters birthday. if it's sunrise in stockholm what time is it in okinawa,"['calendar_set', 'datetime_convert']"
+where does kate middleton buy her kids clothes. scratch that one from the list,"['general_quirky', 'lists_remove']"
+uber me to the airport,['transport_taxi']
+i want more light,['iot_hue_lightup']
+cancel alarm. olly tweet a message to a. t. & t. and tell them my service is bad. do you have any suggestion action movies. facebook current stock rate,"['alarm_remove', 'social_post', 'recommendation_movies', 'qa_stock']"
+what is the nearest pizza shop. what is the funniest joke ever. alert me when registration opens. how we can get credit,"['recommendation_locations', 'general_joke', 'calendar_set', 'email_sendemail']"
+turn off the lights in the bathroom. what kinds of sunglasses are considered aviators. turn the vibrate off from speaker,"['iot_hue_lightoff', 'qa_factoid', 'audio_volume_mute']"
+do you know jessica snout's phone number,['qa_factoid']
+show latest email. how the to do list for today,"['email_query', 'lists_query']"
+alert me at the time of the event,['calendar_set']
+where is the nearest gas station,['recommendation_locations']
+tell me how are the results of assembly elections in delhi going to come out. what new email says,"['news_query', 'email_query']"
+features of google pixel. what is the deepest point on earth,"['general_quirky', 'qa_factoid']"
+add event for meeting with james. my party planning,"['calendar_set', 'calendar_query']"
+open songs from major lazer,['play_music']
+make the lights pink,['iot_hue_lightchange']
+set lunch every day at twelve thirty. turn the smart plug on,"['calendar_set', 'iot_wemo_on']"
+are you working for the n. s. a.. what going on. best paid jobs in digital marketing in my area,"['general_quirky', 'social_query', 'general_quirky']"
+play any song by joe prsaise. change the lights to dim. iphone seven description. tell comcast i hate them,"['play_music', 'iot_hue_lightdim', 'qa_definition', 'social_post']"
+ok google where does sophia vergara live. set the speakers to mute,"['qa_factoid', 'audio_volume_mute']"
+tell me all the current events in my hometown,['recommendation_events']
+what's the capital of kazakhstan. send an alert before meeting,"['qa_factoid', 'calendar_set']"
+remove the guest list i created last week. what is the news from that newsource,"['lists_remove', 'news_query']"
+read me the latest headlines from nytimescom,['news_query']
+emails in the last ten minutes. summarize week's weather details,"['email_query', 'weather_query']"
+send an email to my assistant clara to cancel all appointments for tomorrow,['email_sendemail']
+please tweet on dell service for delay services. call city cab to airport. how is the weather in san francisco. can you please order some food for me,"['social_post', 'transport_taxi', 'weather_query', 'takeaway_order']"
+what kinds of sunglasses are considered aviators. play,"['qa_factoid', 'play_radio']"
+add this email address to my contacts and send an email to,['email_addcontact']
+where do most celebrities hang out. please rate current song as five stars,"['qa_factoid', 'music_likeness']"
+did i tell you to remind me something,['calendar_query']
+send a reply if it is very important. what's leon's email,"['email_query', 'email_querycontact']"
+i need a cup of coffee. where is a walking trail near me. what are today's sports news,"['iot_coffee', 'recommendation_locations', 'news_query']"
+what is the time now in new york. alert me when registration opens. can you play me a rap song on the radio,"['datetime_query', 'calendar_set', 'play_radio']"
+topic,['email_query']
+show me the dim color. what day of the week does the fifteenth of march fall on,"['iot_hue_lightdim', 'datetime_query']"
+alert me when registration opens. i'd like to know what time it is right now,"['calendar_set', 'datetime_query']"
+make it red in here. how long should i cook a steak to be medium,"['iot_hue_lightchange', 'cooking_recipe']"
+what ingredients do i need to bake a large cake. book a cab to office for me. play the latest rock songs having rating of four or above. hey olly i like music by sigur ros,"['cooking_recipe', 'transport_taxi', 'play_music', 'music_likeness']"
+show me the latest news from the un,['news_query']
+did angelina jolie leave brad pitt. google train tickets to washington d. c.. i like this song please save,"['qa_factoid', 'transport_ticket', 'music_likeness']"
+is it going to rain at one p. m. today,['weather_query']
+give me a cooking tutorial. play the song title. what color are chairs,"['cooking_recipe', 'play_music', 'qa_factoid']"
+delete the alarm i just set. hey olly can you please make me a creamy coffee. turn up the volume on my speakers,"['alarm_remove', 'iot_coffee', 'audio_volume_up']"
+play videos,['general_quirky']
+speaker volume increase. launch super mario,"['audio_volume_up', 'play_game']"
+olly what events are happening in pondichery this weekend,['recommendation_events']
+resume harry potter from the place i have stopped listening to last time,['play_audiobook']
+turn the lights off,['iot_hue_lightoff']
+i want to see all set alarms. please play only sad song in music player,"['alarm_query', 'play_music']"
+check most current emails. i need a meeting to be schedule with this person,"['email_query', 'calendar_set']"
+email my appointments to reschedule,['email_sendemail']
+when was the bolshoi theater constructed,['qa_factoid']
+show me my meeting for the next month,['calendar_query']
+will it rain tomorrow. how would you describe a happy birthday. what is the weather condition in new york. turn off the lights in the kitchen,"['weather_query', 'qa_definition', 'weather_query', 'iot_hue_lightoff']"
+adjust the lights to a lower setting please. i need to change my house lights color to blue. what is googs current price,"['iot_hue_lightdim', 'iot_hue_lightchange', 'qa_stock']"
+set repeating reminder for every sunday. my vacuum cleaner should start between ten to eleven am everyday. please play the latest song from the album abbas,"['calendar_set', 'iot_cleaning', 'play_music']"
+brighten the lights. what is the wake up time for my alarm i have set for the flight this weekend. how is the new movie swat,"['iot_hue_lightup', 'alarm_query', 'recommendation_movies']"
+tweet a complaint for the online bookstore. put this event in a repeating pattern on my calendar. tell me what i wore yesterday. please check email contain job listing,"['social_post', 'calendar_set', 'general_quirky', 'email_query']"
+i want to order chinese take-out. summarize week's weather details. cancel dinner tonight,"['takeaway_order', 'weather_query', 'calendar_remove']"
+i can't see turn up the lights,['iot_hue_lightup']
+how many tornadoes have there been this month. make the bedroom lights red and the hall lights normal color please,"['general_quirky', 'iot_hue_lightchange']"
+add a new email for julie smith. describe hell. will trump visit russia anytime soon,"['email_sendemail', 'qa_definition', 'news_query']"
+call me a taxi olly,['transport_taxi']
+what will the weather be tomorrow,['weather_query']
+please reserve the next taxi a nine am,['transport_taxi']
+send a complaint tweet. how long will my lunch meeting be on tuesday. what is the exchange rate between us and mexico,"['social_post', 'calendar_query', 'qa_currency']"
+what is scheduled on my calendar today. what's in my inbox since we last looked,"['calendar_query', 'email_query']"
+check emails,['email_query']
+in how many hours will it be midnight in london england,['datetime_query']
+train ticket. does allearsnet have a new podcast. tell me billy crytals address,"['transport_ticket', 'play_podcasts', 'qa_factoid']"
+please let me know the dog shows events going on in my home town,['recommendation_events']
+how old are you. what kinds of sunglasses are considered aviators. i would like to know the best rating pubs in the local area,"['general_quirky', 'qa_factoid', 'recommendation_locations']"
+play track one from my david bowie playlist,['play_music']
+clean my house,['iot_cleaning']
+remove that item,['lists_remove']
+what's the weather in portland. research the clients that will attend the meeting. please play a song by bruno mars. tell me about mary s.,"['weather_query', 'calendar_set', 'play_music', 'email_querycontact']"
+move on to the next podcast episode. google what are the basic things humans need,"['play_podcasts', 'general_quirky']"
+i hate how long the traffic jams get,['general_quirky']
+could you please email john saying i'm on leave. what is the latest story from fox news. what's the capital of kazakhstan,"['email_sendemail', 'news_query', 'qa_factoid']"
+cancel my seven am alarm,['alarm_remove']
+search for podcasts that cover men's issues. are there any upcoming concerts by. show me a video on cooking fried chicken,"['play_podcasts', 'music_likeness', 'cooking_recipe']"
+don't make any sounds. how can you get basalt. delete the first item on the list. shut down the sound,"['audio_volume_mute', 'general_quirky', 'lists_remove', 'audio_volume_mute']"
+play the second song from anirudh's song. i need you to get me up at six am. who is doing facebook live right now,"['play_music', 'alarm_set', 'social_query']"
+what is the weather going to be like on march twentieth two thousand and seventeen. give me more light,"['weather_query', 'iot_hue_lightup']"
+when will my chinese food be delivered. tell me about the new foreign policy of trump,"['takeaway_query', 'news_query']"
+set lights brightness higher. i would like a cheeseburger. olly what are new drama movies opening this weekend. i need some rap,"['iot_hue_lightup', 'cooking_recipe', 'recommendation_movies', 'play_music']"
+clean the floor. what is on my to do list today,"['iot_cleaning', 'lists_query']"
+slow down the speaker volume,['audio_volume_down']
+tell me something i can do to help my community today. please give me todays forecast for new york city. play music from my rock list. tweet at,"['general_quirky', 'weather_query', 'play_music', 'social_post']"
+add podcast favorites to playlist and start. let's cook meatballs together. turn off the alarm. i love this song,"['play_podcasts', 'cooking_recipe', 'alarm_remove', 'music_likeness']"
+tell me what the product of eighteen and thirty one is. are you real,"['qa_maths', 'general_quirky']"
+hello i want to turn off my wemo plug. how do i get to the mall. make a new alarm. read me the latest international news,"['iot_wemo_off', 'transport_query', 'alarm_set', 'news_query']"
+what does celebrity do,['qa_factoid']
+email mom and ask how the weather is there,['email_sendemail']
+recipe please. if a pencil cost four dollars and a book ten dollars cost how much i should pay if i buy two pencil and three book,"['cooking_recipe', 'qa_maths']"
+do i have any new emails in my inbox today,['email_query']
+add an alarm for tomorrow morning at six am. when was the bolshoi theater constructed. olly tell me my alarms,"['alarm_set', 'qa_factoid', 'alarm_query']"
+read list of new emails. what else is missing in the diary,"['email_query', 'lists_query']"
+i occasionally pay attention,['weather_query']
+start radio channel eight hundred and eighty nine,['play_radio']
+front page news articles please,['news_query']
+mute for one hour. olly i'm looking for some dress shows can you find clothing stores within one mile. weekly weather report,"['audio_volume_mute', 'recommendation_locations', 'weather_query']"
+how much is one american dollars worth in england. california,"['qa_currency', 'transport_query']"
+play lady by kenny roger. title of song. play next episode of podcast. tell me the largest ocean in the world,"['play_music', 'music_query', 'play_podcasts', 'qa_factoid']"
+tell me how are the results of assembly elections in delhi going to come out. tell me how to make a poor boy sandwich. turn on the radio and play channel one hundred and six point nine,"['news_query', 'cooking_recipe', 'play_radio']"
+current time in japan. what do i have planned for this week. send a reply to mike with the answer four hundred and thirty from his email he sent this morning. what is the email address for tessa,"['datetime_query', 'calendar_query', 'email_sendemail', 'email_querycontact']"
+what is the fastest way to get to starbucks,['transport_query']
+have i gotten any new email. please book a ticket of rajdhani express train from jaipur. how many lists do i have. what alarms did i set,"['email_query', 'transport_ticket', 'lists_query', 'alarm_query']"
+add the post office to my list of errands for saturday. am i free at four p. m.,"['lists_createoradd', 'calendar_query']"
+get me the local train timing to destination cstm,['transport_query']
+remind me to pick up mark at the airport at six p. m.. show weather,"['calendar_set', 'weather_query']"
+any mail from amazon today,['email_query']
+hey olly cancel all my other meetings and calls for second march as it is jim's birthday tag it as an event in your calendar,['calendar_set']
+remove my car payment on my calendar. make a new shopping list,"['lists_remove', 'lists_createoradd']"
+what's was the upcoming event. turn the plug off,"['calendar_query', 'iot_wemo_off']"
+please check for recent emailstudy from this sender. set notifications on the current weather disasters in america,"['email_query', 'calendar_set']"
+what kind of weather should i expect this week. make the room light blue,"['weather_query', 'iot_hue_lightchange']"
+show me events in sacramento. i want the smart socket off now. lower the speaker volume,"['recommendation_events', 'iot_wemo_off', 'audio_volume_down']"
+can i get a recipe for tuna. create email to yulia. alexa change the radio station,"['cooking_recipe', 'email_sendemail', 'play_radio']"
+check unread emails from amy,['email_query']
+delete all the events in my calendar. hey olly i met one of my old classmates today. please book me a taxi uber,"['calendar_remove', 'general_quirky', 'transport_taxi']"
+play any pop f. m. channel. has cassie sent me any emails about tom. book a ticket to ny by train. tell me where steve jobs was born,"['play_radio', 'email_query', 'transport_ticket', 'qa_factoid']"
+read me the latest international news,['news_query']
+tweet to apple about non receipt of iphone i sent for repairs last week,['social_post']
+start podcasts on n. f. l.. what time is my doctor appointment on march thirty first. give me an update on the election in one hour. what day is the fifth,"['play_podcasts', 'calendar_query', 'calendar_set', 'datetime_query']"
+slow down the speaker volume,['audio_volume_down']
+list all train times to ny. the second of next mont lands on what day. what is new news for today,"['transport_query', 'datetime_query', 'news_query']"
+tell me about india location,['qa_factoid']
+set environmental news notification. email karen about the budget meeting,"['news_query', 'email_sendemail']"
+how many plays has patrick stewart been in. what is going on today from two four p. m.,"['qa_factoid', 'calendar_query']"
+add shopping to my calendar for tomorrow. is there takeaway at papa john's. i wish to know the weather in san fransico,"['calendar_set', 'takeaway_query', 'weather_query']"
+please modify my calendar with this event. divide seventy six in two parts. history,"['calendar_set', 'qa_maths', 'general_quirky']"
+i need to set reminder on fifteenth march,['calendar_set']
+please go to the next episode of the podcast. tell me the local events. what's in the news,"['play_podcasts', 'recommendation_events', 'news_query']"
+what is the difference between bake and broil. what is the time in another city. remove pencil from stationary. book a first class ticket in the next train to miami,"['cooking_recipe', 'datetime_query', 'lists_remove', 'transport_ticket']"
+cancel the breakfast at tiffany's house. light color for study room,"['calendar_remove', 'iot_hue_lightup']"
+what alarms did i set,['alarm_query']
+when does the f. train run today. what is the date next wednesday. i occasionally pay attention,"['transport_query', 'datetime_query', 'weather_query']"
+hey google play some jazz music for me,['play_music']
+nobody knows. notify me when g. b. p. to u. s. d. rate as i expected. what time are the trains going to chennai leaving,"['play_music', 'qa_currency', 'transport_query']"
+convert eight am manila time to new york time,['datetime_convert']
+has amy sent me any new emails,['email_query']
+what news has happened on c. n. n. today. what day of the week is the twenty third of this month. is there anything i should be reminded about,"['news_query', 'datetime_query', 'calendar_query']"
+which contact haven't i called in twelve months,['email_querycontact']
+play my midnight love playlist. remind me to something in sometime,"['play_music', 'calendar_set']"
+ok google where does sophia vergara live. clear my next activity,"['qa_factoid', 'calendar_remove']"
+up load all my podcast,['play_podcasts']
+hey send a meeting invite to mr. ross for this friday's meeting and block my calendar for friday afternoon,['calendar_set']
+just idle chit chat,['general_quirky']
+weather report now. how much is one american dollars worth in england. turn the light off in the living room. the event will include walter and gemma,"['weather_query', 'qa_currency', 'iot_hue_lightoff', 'calendar_set']"
+do i have any new emails from kellogg,['email_query']
+add new item to list,['lists_createoradd']
+do i need a sweater today. alarm ten am,"['weather_query', 'alarm_set']"
+can you tell me about animal kingdom in amazon forest,['general_quirky']
+who won the presidential election this year,['qa_factoid']
+tweet that product sucks. instructions to make a meal. play lady by kenny roger,"['social_post', 'cooking_recipe', 'play_music']"
+play sleepyhead by passion pit. can you please stop speaking,"['play_music', 'audio_volume_mute']"
+delete it. give me some good sounds,"['calendar_remove', 'play_music']"
+remove anniversary event from my calendar. initialize the robot vacuum,"['calendar_remove', 'iot_cleaning']"
+his hardword is properly quead. remove birthday from calendar,"['general_quirky', 'calendar_remove']"
+i will need warm socks in winter in morning,['weather_query']
+can you tell me the latest news,['news_query']
+can you play my favorite audio book of tarzan. what ingredients do i need to bake a large cake. when does the f. train run today,"['play_audiobook', 'cooking_recipe', 'transport_query']"
+is there a meeting on my calendar this afternoon,['calendar_query']
+what's ten percent off forty dollars. please start the coffee pot. i'd like you to turn turn on the t. v.,"['qa_maths', 'iot_coffee', 'iot_wemo_on']"
+what is the time in beijing,['datetime_query']
+i occasionally pay attention. hey what is the weather like today. what's happening in the news,"['weather_query', 'weather_query', 'news_query']"
+please alert me to the time. i like this song please save. when can we eat,"['datetime_query', 'music_likeness', 'takeaway_query']"
+remind me tomorrow at ten am about the meeting,['calendar_set']
+clear my calendar all events,['calendar_remove']
+i need an email to be sent to comcastcom about my service issues,['email_sendemail']
+go on sweet talk me. i need next week's lunch put on the calendar,"['general_quirky', 'calendar_set']"
+what are some theme parks nearby. inform me on the items on the list,"['recommendation_events', 'lists_query']"
+what are the climatic conditions in that area. please turn the volume down,"['qa_factoid', 'audio_volume_down']"
+did i set an alarm to have tablets in the noon. order pizza for delivery,"['alarm_query', 'takeaway_order']"
+do i have any new email from joe. what movies has emma watson acted in. meetings from twenty to twenty five june,"['email_query', 'qa_factoid', 'calendar_query']"
+remind me that i have a birthday party on the thirtieth,['calendar_set']
+turn the living room's light off. what is the exchange rate with in one british pound,"['iot_hue_lightoff', 'qa_currency']"
+play my most watched podcast. send john smith and email. do i need a jacket,"['play_podcasts', 'email_sendemail', 'weather_query']"
+play audiobook of planets,['play_audiobook']
+remind upcoming meeting with eminem. play my playlist starting from the bottom,"['calendar_set', 'play_music']"
+play f. m.,['play_radio']
+let's tweet a complaint,['social_post']
+replay my last played podcast. what is the latest update on the new york bridge proposal,"['play_podcasts', 'news_query']"
+find me a chocolate cake recipe. news articles on a particular subject. start playlist. best rap music,"['cooking_recipe', 'news_query', 'play_music', 'play_music']"
+send a tweet about sonys volume issues. what store is having sales tomorrow,"['social_post', 'general_quirky']"
+fast,['audio_volume_up']
+email mom and ask how the weather is there. is it twentieth march today. remove shopping list. i want to do laundry at eight p. m. create reminder,"['email_sendemail', 'datetime_query', 'lists_remove', 'calendar_set']"
+what song is on the radio. web searches. s.,"['music_query', 'general_quirky', 'play_music']"
+please raise the light i am not comfortable at this. how much would it cost to buy stock in apple. what days do i have booked. one plus two equal,"['iot_hue_lightup', 'qa_stock', 'calendar_query', 'qa_maths']"
+hey has john sent me any email lately. how to make taco,"['email_query', 'cooking_recipe']"
+show weather. i have a function at washington tomorrow remind it. play sleepyhead by passion pit,"['weather_query', 'calendar_set', 'play_music']"
+play only my list,['play_music']
+remove pencil from stationary,['lists_remove']
+can you book an uber for me,['transport_taxi']
+please tune nine hundred and thirty eight f. m. radio mirchi. open up and play music from my jogging playlist. how long does it take to make vegetable lasagna,"['play_radio', 'play_music', 'cooking_recipe']"
+bring me the title of current music. tell me about mary s.,"['music_query', 'email_querycontact']"
+open a reminder about next weeks managers meeting on tuesday. it's my mother's birthday today send me a notification every year on this date,"['calendar_set', 'calendar_set']"
+start the next episode. can you change the volume at,"['play_podcasts', 'audio_volume_other']"
+just let me know next weeks weather in california. open inbox to check unread mails. olly save all the songs i have listened to more than once,"['email_query', 'email_query', 'music_likeness']"
+describe the heart stone card game,['qa_definition']
+find a train ticket to philadelphia. let's play hits on the radio,"['transport_ticket', 'play_radio']"
+hey what time is it in london now,['datetime_query']
+what information should i know for my meetings today. make the radio turn on now. how many saturdays are in march,"['calendar_query', 'play_radio', 'datetime_query']"
+list exchange rate information for the day for u. s. d. to jpy,['qa_currency']
+yes or no tomorrow's temperature is to be hot. any special events on my list. play country radio. we should play nfs at high speed,"['weather_query', 'lists_query', 'play_radio', 'play_game']"
+seven years,['play_music']
+read my grocery list. please add sugar to my grocery list. remove the first alarm,"['lists_query', 'lists_createoradd', 'alarm_remove']"
+a quarter to two. where i went today,"['datetime_query', 'general_quirky']"
+play nineties hip hop,['play_music']
+what are my pending tasks. does my company worker have a home phone number. i want to set an alarm when i'm driving home tomorrow to remember to stop at the store and get food,"['calendar_query', 'email_querycontact', 'alarm_set']"
+i want to know more about the fair this weekend,['general_quirky']
+what reminders did i set. what is on the agenda for the four p. m. meeting with joe,"['calendar_query', 'calendar_query']"
+send email to tim at hotmail dot com,['email_sendemail']
+is my alarm set,['alarm_query']
+put on some led zeppelin. begin vacuuming,"['play_music', 'iot_cleaning']"
+check for emails from my employer. please reduce the speaker volume,"['email_query', 'audio_volume_down']"
+alexa please turn down the lights in the house. remind me to contact old friends that i have not talked with in six months before they pass. what does priyanka chopra do to look beautiful,"['iot_hue_lightdim', 'calendar_set', 'general_quirky']"
+set an alarm for six thirty am. can we go to sun. what time is my domino's order expected to arrive. please create new list,"['alarm_set', 'general_quirky', 'takeaway_query', 'lists_createoradd']"
+answer for three times four. set alarm of only monday morning six am,"['qa_maths', 'alarm_set']"
+how many legs does a dog have,['qa_factoid']
+what can i substitute butter with. turn my bedroom lights off. i want it to remember my preferences and recommend me things based on them when i ask,"['cooking_recipe', 'iot_hue_lightoff', 'general_quirky']"
+is there anything happening on jazz scene around edinburgh. what is the yen worth,"['recommendation_events', 'qa_currency']"
+check the dish price and all. that last email needs to be answer a. s. a. p.. put dark colors instead of light ones in the house. what i am going to do today,"['takeaway_query', 'email_sendemail', 'iot_hue_lightchange', 'lists_query']"
+how to cook spaghetti squash,['cooking_recipe']
+show weather. research the clients that will attend the meeting,"['weather_query', 'calendar_set']"
+how is rice prepared,['cooking_recipe']
+i would like to know the best rating pubs in the local area. how is the traffic at the moment. play my favorite book. is it ten,"['recommendation_locations', 'transport_traffic', 'play_audiobook', 'datetime_query']"
+will it be rainy day tomorrow. definition of velocity. let's cook meatballs together,"['weather_query', 'qa_definition', 'cooking_recipe']"
+what's the name of the piece you are playing. i want to know more about the fair this weekend,"['music_query', 'general_quirky']"
+info of the upcoming events,['recommendation_events']
+i want to thank everyone for the birthday wishes,['social_post']
+book a train ticket from here to charleston west virginia at eight am today,['transport_ticket']
+find the ways of travel for the same. play classic rock,"['transport_query', 'play_music']"
+check if default alarm is set,['alarm_query']
+show latest email. please play shake it off by taylor swiftm,"['email_query', 'play_music']"
+the weather was bad today,['general_quirky']
+please book a ticket of rajdhani express train from jaipur. get rid of all events with jeff,"['transport_ticket', 'calendar_remove']"
+remove my car payment on my calendar. what degree is it outside,"['lists_remove', 'weather_query']"
+please ring the wake up alarm at eight am next saturday,['alarm_set']
+start my playlist on i heart radio. wake me at six am thursday so i have time for the meeting. remind me after ten minutes,"['play_radio', 'calendar_set', 'calendar_set']"
+when is my brunch with jennifer,['calendar_query']
+give me a reminder twenty four hours before my friday meeting with edg,['calendar_set']
+send a reply to the last email. remind me my mom's birthday a week before. send this email to reply to the latest emails. remind me to call mom every tuesday at ten am,"['email_sendemail', 'calendar_set', 'email_sendemail', 'calendar_set']"
+check to see if i have any new emails from my dad. delete all lists,"['email_query', 'lists_remove']"
+olly play i can't feel my face. please load new email for bruce and send message now. what do i have planned for this week,"['play_music', 'email_sendemail', 'calendar_query']"
+meeting reminders from three to five. what's my upcoming week look like. olly change the lighting to blue,"['calendar_query', 'calendar_query', 'iot_hue_lightchange']"
+what music is currently playing on. playback tom clancy splinter cell. review all alarms. for how many years was abraham lincoln president of united states,"['music_query', 'play_audiobook', 'alarm_query', 'qa_factoid']"
+do we have morgan's office's number. get me the local train timing to destination cstm. how much is one dollar in pounds,"['email_querycontact', 'transport_query', 'qa_currency']"
+silence volume on speakers,['audio_volume_mute']
+call yellow cab. quiet mode on until i am home from work. play a game with me,"['transport_taxi', 'audio_volume_mute', 'play_game']"
+olly what time is it in this city. house lights blue. remind me on fifth march of every year to arrange wedding anniversary presents,"['datetime_query', 'iot_hue_lightchange', 'calendar_set']"
+how do i reach sarah,['email_querycontact']
+hey olly please tell me the name of this song that is currently playing. olly let's listen to hunt for read october. what is a caftan. let's go through all pending reminders,"['music_query', 'play_audiobook', 'qa_definition', 'calendar_query']"
+on friday please put dentist appointment at three. house lights blue. how is traffic in city. what does situation mean,"['calendar_set', 'iot_hue_lightchange', 'transport_traffic', 'qa_definition']"
+tweet to apple about non receipt of iphone i sent for repairs last week. my vacuum cleaner should start between ten to eleven am everyday. i need to order some food from papa john's,"['social_post', 'iot_cleaning', 'takeaway_order']"
+bring me the title of current music. i've canceled the order placed at mcd did it go through. please scan the am dial on the radio right now. how long should i boil an egg,"['music_query', 'takeaway_query', 'play_radio', 'cooking_recipe']"
+mark april twenty as my brother's birthday. what's the latest news from xinhua. what is the exchange rates in this region. what is the definition of subjegant,"['calendar_set', 'news_query', 'qa_currency', 'qa_definition']"
+is this song ed sheeran,['music_query']
+play youtube playlist blank,['play_music']
+thirty minute reminder on meeting for tuesday,['calendar_set']
+i went to the store. please stop talking. latest movies in theaters,"['general_quirky', 'audio_volume_mute', 'general_quirky']"
+please give me information about john abraham lincon,['qa_factoid']
+tell me if i have new emails. what did i tell susan in my last email,"['email_query', 'email_query']"
+hey olly i met one of my old classmates today,['general_quirky']
+hey olly i met one of my old classmates today. search to find current local time and time zone,"['general_quirky', 'datetime_query']"
+play the oldies station. is it afternoon yet,"['play_radio', 'datetime_query']"
+how do i set my coffee machine to make coffee. alexa give me the headline news,"['iot_coffee', 'news_query']"
+what is eastern standard time right noe,['datetime_query']
+do i have a date on friday,['calendar_query']
+hoover the hallway. please tell me how to i bake twelve oatmeal cookies. open temperature. play a game with me,"['iot_cleaning', 'cooking_recipe', 'weather_query', 'play_game']"
+what's the name of the piece you are playing. olly turn on the coffee machine to make me some coffee. can you book a train ticket. set feeling happy status on facebook,"['music_query', 'iot_coffee', 'transport_ticket', 'social_post']"
+new event. please tell me what is the definition of cylinder. let's suck out the dust,"['calendar_set', 'qa_definition', 'iot_cleaning']"
+when can we eat,['takeaway_query']
+open spotify and open workout. play next reason podcast,"['play_radio', 'play_podcasts']"
+give me the details on purchase order,['lists_query']
+send email to jessica,['email_sendemail']
+hey olly can you please make me a creamy coffee. mark today as the start of my diet. which type of music it is. is my schedule for july seventh completely open,"['iot_coffee', 'calendar_set', 'music_query', 'calendar_query']"
+find exchange rate for u. s. d. to pound. play sleepyhead by passion pit,"['qa_currency', 'play_music']"
+i will need warm socks in winter in morning,['weather_query']
+start some music play the radio. what movie should i watch today,"['play_radio', 'recommendation_movies']"
+play the latest rock songs having rating of four or above. play any song by joe prsaise,"['play_music', 'play_music']"
+driving time to los angeles,['transport_query']
+please set this date to repeat. when was the bolshoi theater constructed. song title. siri today is what date,"['calendar_set', 'qa_factoid', 'music_query', 'datetime_query']"
+have i gotten any new email. search in the web for buying bakeware for muffins,"['email_query', 'cooking_recipe']"
+are you happy,['general_quirky']
+nice lyrics. set the speakers to mute,"['music_likeness', 'audio_volume_mute']"
+next play justin bieber's sorry. shut off lights,"['play_music', 'iot_hue_lightoff']"
+my set alarms. let me hear my list. find a description about a samsung t. v.,"['alarm_query', 'lists_query', 'qa_definition']"
+has anyone commented on my status,['social_query']
+check most current emails,['email_query']
+describe the new football game rules. i need to talk to mom. tell me some best tourist places to visit in america. olly do i have an alarm set for tomorrow,"['general_quirky', 'general_quirky', 'recommendation_locations', 'alarm_query']"
+how much is the dollar worth compared to the euro,['qa_currency']
+add new item to list. comfort my ears with arijit singh. please play radio station one right now. remind me i take mom to the hairdresser's thursday at one thousand one hundred am,"['lists_createoradd', 'play_music', 'play_radio', 'calendar_set']"
+what is the time in beijing. remove succeeding event. what is the commute time to the theater. check email about my job,"['datetime_query', 'calendar_remove', 'transport_query', 'email_query']"
+create an email for my company worker with my recently saved documents. please set a notification on twenty third october about meeting with my colleague. are there any updates in regard to the election,"['email_sendemail', 'calendar_set', 'news_query']"
+send a replay email. remind me to check the stew at six o'clock,"['email_sendemail', 'calendar_set']"
+silently adjust. tweet something for me. have any emails come in since four hundred today. what sound does a dog make,"['audio_volume_mute', 'social_post', 'email_query', 'general_quirky']"
+start next podcast. please remove remainder. what is the music playing right now,"['play_podcasts', 'calendar_remove', 'music_query']"
+what time does the train to place leave. give me the latest updates. tell me more about my events. is there any rain in the forecast for the next week,"['transport_query', 'news_query', 'general_quirky', 'weather_query']"
+olly get me the popular news from b. b. c.,['news_query']
+what is the traffic like on my commute home at five,['transport_query']
+what is the minimum temperature of london. go to the washington post website. knowledge about food processing,"['weather_query', 'news_query', 'cooking_recipe']"
+check the dish price and all. crack a joke. remove pencil from stationary,"['takeaway_query', 'general_joke', 'lists_remove']"
+set alarm at six thirty am,['alarm_set']
+tell me if i have any unread new emails. how is it outside. show future events,"['email_query', 'weather_query', 'calendar_query']"
+please create a new list for me. title of song. tweet a message to suqcom that i am still waiting for my delivery,"['lists_createoradd', 'music_query', 'social_post']"
+please check my mail,['email_query']
+i will need warm socks in winter in morning,['weather_query']
+ok google play one hundred and six point seven,['play_radio']
+play. where is the nearest walmart,"['play_radio', 'recommendation_locations']"
+how much wood could a woodchuck chuck if a woodchuck could chuck wood,['general_quirky']
+open twitter type my complaint and post to at consumer service. make the house lights amber at six p. m.,"['social_post', 'iot_hue_lightchange']"
+tell me the recipe of,['cooking_recipe']
+play a podcast from my library,['play_podcasts']
+show b. b. c. news of migration. resume harry potter book four,"['news_query', 'play_audiobook']"
+set lunch every day at twelve thirty. set list. play. siri please check exchange rates,"['calendar_set', 'lists_createoradd', 'play_radio', 'qa_currency']"
+how's the weather today. turn the living room's light off,"['weather_query', 'iot_hue_lightoff']"
+add tal meeting on twenty first at seven. searching information online,"['calendar_set', 'general_quirky']"
+where can i go tonight,['recommendation_events']
+i mostly pay attention,['weather_query']
+add red wine to my shopping list. check my email for any new email from joe,"['lists_createoradd', 'email_query']"
+change the lights to blue olly. olly tell me the time in g. m. t. plus five,"['iot_hue_lightchange', 'datetime_convert']"
+could you please play this program for me. facebook,"['play_radio', 'social_query']"
+android. set event date in calendar with others. is fongs dine in only. what's happening around the world,"['lists_query', 'calendar_set', 'takeaway_query', 'news_query']"
+hey what time is it in london now. ok google where does sophia vergara live. delete item. tell me the weather this week,"['datetime_query', 'qa_factoid', 'lists_remove', 'weather_query']"
+send an email to my assistant clara to cancel all appointments for tomorrow. are you smart. what time should i go for a hike. move to the next episode of hipsterhood,"['email_sendemail', 'general_quirky', 'weather_query', 'play_podcasts']"
+explain quantum physics to me in language i understand. who are your developers. what store is having sales tomorrow. play the next one,"['general_quirky', 'general_quirky', 'general_quirky', 'play_podcasts']"
+play game with me. what is the wake up time for my alarm i have set for the flight this weekend. can they provide takeaway. remind me to call mom every tuesday at ten am,"['play_game', 'alarm_query', 'takeaway_query', 'calendar_set']"
+uber me to the airport. olly put dark colors instead of light ones in the house. reset my locations list,"['transport_taxi', 'iot_hue_lightchange', 'lists_remove']"
+are there morning shows available. remove next monday's meeting. cook me some oats,"['calendar_query', 'calendar_remove', 'cooking_recipe']"
+is it going to rain later. order a pizza with sausage from domino's,"['weather_query', 'takeaway_order']"
+make it red in here. can you make dinner for me,"['iot_hue_lightchange', 'general_quirky']"
+jump to next podcast. will it be rainy tomorrow,"['play_podcasts', 'weather_query']"
+meeting reminders from three to five. set event date in calendar with others,"['calendar_query', 'calendar_set']"
+veganism,['general_quirky']
+what are pounds worth right now. delete the last phrase. features of google pixel,"['qa_currency', 'lists_remove', 'general_quirky']"
+set feeling happy status on facebook. what is two hundred divided by ten. how much is the dollar worth compared to the euro,"['social_post', 'qa_maths', 'qa_currency']"
+remove that item,['lists_remove']
+remind me every monday to take out the trash. how is the weather where i am. tell me more about my events. make a coffee please,"['calendar_set', 'weather_query', 'general_quirky', 'iot_coffee']"
+what is arnold schwarzenegger's birthday. should i take my raincoat with me now. order a takeaway,"['qa_factoid', 'weather_query', 'takeaway_order']"
+have i received any emails since noon. is there any new information regarding the mexican american border wall. what song is playing right now,"['email_query', 'news_query', 'music_query']"
+hows the food order going. play my soundtrack. how big is the cosmos. write an email for john at gmail dot com,"['takeaway_query', 'play_music', 'qa_factoid', 'email_sendemail']"
+what's the latest news. which ocean touches at our continent. move to the next song in the list,"['news_query', 'qa_factoid', 'music_settings']"
+please know that today i had a meeting with george. make the coffee,"['general_quirky', 'iot_coffee']"
+what's new in the news. tell me if i have new emails. display recent email from john,"['news_query', 'email_query', 'email_query']"
+when does the next train traveling the city leave here,['transport_query']
+set my coffee machine. play the oldies station,"['iot_coffee', 'play_radio']"
+time between us and canada. help complaint to consumer service,"['datetime_convert', 'social_post']"
+get rid of the events on the nineteenth from my calendar,['calendar_remove']
+train ticket. don't let me forget to buy a gift for my sister. can you contact samsung and say my washer is on fire,"['transport_ticket', 'calendar_set', 'social_post']"
+can you remove this item from the list. get rid of tax list from nineteen ninety,"['lists_remove', 'lists_remove']"
+describe what a sphere is. what time will the soccer match be tonight. trump. c. n. n. headlines,"['qa_definition', 'calendar_query', 'general_quirky', 'news_query']"
+how is the stock going in general. play any song by joe prsaise. play next episode of podcast. add my car payment on the twelfth in my calendar,"['qa_stock', 'play_music', 'play_podcasts', 'calendar_set']"
+add a reminder of a conference for tomorrow in new york. set my alarm for seven am. find the latest disney podcast,"['calendar_set', 'alarm_set', 'play_podcasts']"
+turn on the playlist i have dedicated to rock music. open company name and find complaints,"['play_music', 'social_post']"
+who was the current prime minister of britain. add a lunch with mike,"['qa_factoid', 'calendar_set']"
+economic affairs,['news_query']
+power off please. open audiobook. remind me of how many lists i have,"['iot_wemo_off', 'play_audiobook', 'lists_query']"
+alexa please turn down the lights in the house. title of song. meeting reminders from three to five. please put event into my calendar and mark it as a repeating event,"['iot_hue_lightdim', 'music_query', 'calendar_query', 'calendar_set']"
+how much is the euro worth versus u. s. dollar. i need a meeting to be schedule with this person. how do i figure women out. can you make me some coffee olly,"['qa_currency', 'calendar_set', 'general_quirky', 'iot_coffee']"
+don't play this song again. siri please turn the lights off in the bathroom. what is the exchange rate for mexico money,"['music_dislikeness', 'iot_hue_lightoff', 'qa_currency']"
+rock. delete all events,"['play_music', 'calendar_remove']"
+what was the subject of the last email from mom,['email_query']
+i want to know more about the fair this weekend. give me all available lists. please sent this email to my friend. do i have any new email,"['general_quirky', 'lists_query', 'email_sendemail', 'email_query']"
+plan for tomorrow,['calendar_query']
+what's two plus two. please repeat my shopping list,"['qa_maths', 'lists_query']"
+math. a quarter to two. do i have a meeting this afternoon,"['general_quirky', 'datetime_query', 'calendar_query']"
+what movie can i watch tonight on the theater here in boston,['recommendation_events']
+find me a joke related to baseball. olly give me some dim light,"['general_joke', 'iot_hue_lightdim']"
+show me the events in my work calendar for next week. knock knock. let's hear some indie rock okay,"['calendar_set', 'general_joke', 'play_music']"
+baking times for chicken in the oven. i think i can travel the whole world in a day. olly change the lighting to blue,"['cooking_recipe', 'general_quirky', 'iot_hue_lightchange']"
+can you give me the details of upcoming annual function on twenty sixth march. tell me some business news. it's dirty here make some noise. how to get somewhere,"['general_quirky', 'news_query', 'iot_cleaning', 'transport_query']"
+daily news. how's the weather in the capital city. a quarter to two,"['news_query', 'weather_query', 'datetime_query']"
+please send mom and dad an email asking how they are. tell me where steve jobs was born. play my rock playlist. what's happening around me,"['email_sendemail', 'qa_factoid', 'play_music', 'recommendation_events']"
+should i wear raincoat before getting out,['weather_query']
+what's this week's weather. play one more time,"['weather_query', 'play_music']"
+what song is playing right now. check email for received from mom,"['music_query', 'email_query']"
+please play the song every time i see you,['play_music']
+i need to talk to mom,['general_quirky']
+move to next section. event reminder mona tuesday,"['play_podcasts', 'calendar_set']"
+one dolla equals how much inr. any lighting news emails,"['qa_currency', 'email_query']"
+play song next,['play_music']
+did the price of walmart stock go up or down. please show today meeting with clients. open contacts. play the oldies station,"['qa_stock', 'calendar_query', 'email_addcontact', 'play_radio']"
+i need to ask you how many angels can dance on a pinhead. what's the name of the piece you are playing. reply email,"['general_quirky', 'music_query', 'email_sendemail']"
+movies with good reviews. please archive my read messages. play the last doctor who radio broadcast. i need to know how to make stuffed peppers,"['recommendation_movies', 'email_query', 'play_radio', 'cooking_recipe']"
+what is the first metro to d. c.,['transport_query']
+why isn't adam sandler funny. light up the lights in the kitchen. where is the nearest walmart,"['qa_factoid', 'iot_hue_lighton', 'recommendation_locations']"
+hows mysore climate today,['weather_query']
+i like the songs of yeshudas please play it. remind me to start supper this afternoon at five,"['music_likeness', 'calendar_set']"
+give me up to date on sports news. how is it outside,"['news_query', 'weather_query']"
+create a list that is available,['lists_createoradd']
+play last libertarian podcast. put dark colors instead of light ones in the house,"['play_podcasts', 'iot_hue_lightchange']"
+remind me about the party tomorrow,['calendar_set']
+play chess,['play_game']
+is there valet service at the event. put on the vacuum on now and clean the living room. new meeting add bill and malinda as attendees,"['calendar_query', 'iot_cleaning', 'calendar_set']"
+it's my mother's birthday today send me a notification every year on this date. how the to do list for today,"['calendar_set', 'lists_query']"
+show future events,['calendar_query']
+play next reason podcast. hey siri start an email to coworker,"['play_podcasts', 'email_sendemail']"
+remove cereal from my shopping list. i need to know more about the parade this weekend,"['lists_remove', 'general_quirky']"
+read my grocery list,['lists_query']
+please turn off the lights in patio. add broccoli to my grocery list. check mail for anything from shelly. what are the definitions of orange,"['iot_hue_lightoff', 'lists_createoradd', 'email_query', 'qa_definition']"
+i want it to be able to tell me statistics about things it's done for me like how often i've eaten out this month,['general_quirky']
+you like the song,['music_likeness']
+change volume level to maximum. play the beatles. birthday. has the dollar rate increased,"['audio_volume_other', 'play_music', 'calendar_set', 'qa_currency']"
+thirteenth june is a day of election result please set it. when is the next train leaving for austin. math. post this video to facebook,"['calendar_set', 'transport_query', 'general_quirky', 'social_post']"
+pull up kate's email and write that i will let her know,['email_sendemail']
+play that podcast i was listening to yesterday. tell me the news about share market ups and downs. remove from calendar my medical appointment for today. mild or heavy weather,"['play_podcasts', 'news_query', 'calendar_remove', 'weather_query']"
+is there anything important happening on social media. just let me know the important meetings with my boss over the week. tell me if taco bell delivers,"['social_query', 'calendar_set', 'takeaway_query']"
+what size is a sperm whale. when does the super bowl officially start,"['qa_factoid', 'qa_factoid']"
+turn the kitchen lights off. remind me i take mom to the hairdresser's thursday at one thousand one hundred am. what time are the hockey games tonight,"['iot_hue_lightoff', 'calendar_set', 'general_quirky']"
+song info. tell me some business news. what's the latest news from c. n. n. please. what's for today,"['music_query', 'news_query', 'news_query', 'calendar_query']"
+show me my alarms i have set,['alarm_query']
+clear out the shopping list. will i need sunscreen this afternoon,"['lists_remove', 'weather_query']"
+send a reply to the last email. please clear my calendar,"['email_sendemail', 'calendar_remove']"
+turn on vacuum cleaner. could you please give me up to date news headlines from my newest provider,"['iot_cleaning', 'news_query']"
+reply an email to jason that i will not come tonight,['email_sendemail']
+get me the local train timing to destination cstm,['transport_query']
+do i have any new emails from my contact q.. did i get an email from paul,"['email_query', 'email_query']"
+please play shape of you by said sheeran,['play_music']
+what song is playing right now. tell me where steve jobs was born,"['music_query', 'qa_factoid']"
+check for all the movie theater prices and availability for a newly released movie in my location,['recommendation_movies']
+send email to new contact. could you please give me up to date news headlines from my newest provider. how the to do list for today. how do i book a train ticket online,"['email_sendemail', 'news_query', 'lists_query', 'transport_query']"
+hey send a meeting invite to mr. ross for this friday's meeting and block my calendar for friday afternoon,['calendar_set']
+look up the number of people living in miami florida,['qa_factoid']
+set alarm at nine am on next sunday. describe the new football game rules,"['alarm_set', 'general_quirky']"
+cancel business meeting on wednesday,['calendar_remove']
+email notifications. what is the current time in chennai. how long should i cook a steak to be medium. please know that today i had a meeting with george,"['email_query', 'datetime_query', 'cooking_recipe', 'general_quirky']"
+ok google delete eric's b. day from the calendar. is the song by shakira. please turn off the light of my son's room. read me the latest headlines from nytimescom,"['calendar_remove', 'music_query', 'iot_hue_lightoff', 'news_query']"
+silence volume on speakers. will i need to shovel my driveway this morning. where in d. c. is that meeting at one p. m. on friday,"['audio_volume_mute', 'weather_query', 'calendar_query']"
+ok google delete eric's b. day from the calendar. what are the b. b. c. poll predictions for the upcoming us elections,"['calendar_remove', 'news_query']"
+find information on today's stocks,['news_query']
+please remove that event. recipes that can be cooked in an hour. seven years,"['calendar_remove', 'cooking_recipe', 'play_music']"
+train times from near me to location. i have a meeting at noon today,"['transport_query', 'calendar_set']"
+please play songs i've purchased and favorited. post a new status on facebook saying that i am enjoying the nice weather. play reggae music,"['play_music', 'social_post', 'play_music']"
+show all emails regarding the breach,['email_query']
+start a competitive crossword for us. set a reminder in one hour for my bread to bake. tell me the percentage of the chance of rain in seattle washington for today. open saga,"['play_game', 'calendar_set', 'weather_query', 'play_game']"
+what is on the agenda for the four p. m. meeting with joe,['calendar_query']
+start playing my most recent podcast. what's the latest news. let's cook meatballs together,"['play_podcasts', 'news_query', 'cooking_recipe']"
+can you lower the lights,['iot_hue_lightdim']
+play silent song. please play the podcast for me. open spotify and open workout. please play my nineties rap hits,"['play_music', 'play_podcasts', 'play_radio', 'play_music']"
+please play shake it off by taylor swiftm,['play_music']
+tell me when i should leave for a scheduled event so that i am on time. please start vacuum cleaner. open parcheese game for you and i,"['calendar_set', 'iot_cleaning', 'play_game']"
+remove the list,['lists_remove']
+what are the latest crime statistics for me area. who won the presidential election this year. start a game and play with me,"['news_query', 'qa_factoid', 'play_game']"
+summarize week's weather details. will it be a sticky night,"['weather_query', 'weather_query']"
+i love this music can you please save this to my dance playlist and remember that i like it. write a reply to my mother's email. delete all the events in my calendar,"['music_likeness', 'email_sendemail', 'calendar_remove']"
+do you know the weather. change volume settings in the negative alexa. tell me the time in this time zone,"['weather_query', 'audio_volume_other', 'datetime_query']"
+info on lisa ann please. give me the description about smartphone. how long should i cook a steak to be medium,"['qa_factoid', 'qa_definition', 'cooking_recipe']"
+tell me all the current events in my hometown,['recommendation_events']
+begin a new list. what's a good joke,"['lists_createoradd', 'general_joke']"
+start playing ringcast. set notification for news about the dakota pipeline,"['play_podcasts', 'news_query']"
+i want you to play bohemian raphsody for me,['play_music']
+display the seven day forecast for this week. baseball scores. i want to hear the last news from c. n. n.,"['weather_query', 'general_quirky', 'news_query']"
+play romantic music in nash f. m. ninety two point seven. scratch that one from the list. ok google tweet what a jerk the owner is at the gas station. can you raise the lights for me please,"['play_radio', 'lists_remove', 'social_post', 'iot_hue_lightup']"
+add a meeting at the office with brian for three p. m. on tuesday,['calendar_set']
+how much wood could a woodchuck chuck if a woodchuck could chuck wood. remember this email,"['general_quirky', 'email_addcontact']"
+what conducts heat better copper bottomed pots or cast iron. please raise the light i am not comfortable at this,"['cooking_recipe', 'iot_hue_lightup']"
+what are meeting scheduled for today,['calendar_query']
+switch off the master's bedroom,['iot_hue_lightoff']
+what is the wake up time for my alarm i have set for the flight this weekend. what are the top stories on c. n. n.. what do i have planned for this week. what is a hypothesis,"['alarm_query', 'news_query', 'calendar_query', 'qa_definition']"
+what kind of music do you think i like. how do i start the robot vacuum cleaner,"['music_query', 'iot_cleaning']"
+tell me that list i wrote two days ago. what is price of dollar,"['lists_query', 'qa_currency']"
+notify me when joshua emails me. can you make dinner for me. what degree is it outside,"['email_query', 'general_quirky', 'weather_query']"
+do i have any incoming emails. listen to radio. play mf doom anything,"['email_query', 'play_radio', 'play_music']"
+is my alarm set for tomorrow morning. schedule a one hour appointment for saturday. please set lunch meeting at twelve p. m. for every wednesday in march,"['alarm_query', 'calendar_set', 'calendar_set']"
+cut the songs in this musics. please remind me about this tomorrow,"['music_settings', 'calendar_set']"
+remind me on fifth march of every year to arrange wedding anniversary presents. search nandy. show all emails regarding the breach. what is the capital of nigeria,"['calendar_set', 'email_query', 'email_query', 'qa_factoid']"
+turn the light off in the living room. baking times for chicken in the oven. alexa start from my last session of joes book,"['iot_hue_lightoff', 'cooking_recipe', 'play_audiobook']"
+add spent five dollars in my expenses list,['lists_createoradd']
+what is the capital of nigeria. give me a cooking tutorial. tweet something for me. get todays climate forecast here,"['qa_factoid', 'cooking_recipe', 'social_post', 'weather_query']"
+low cooling condition,['weather_query']
+open davinci code audiobook. do i need umbrella for night. send me a reminder of my meeting with tom next friday. show pending reminders,"['play_audiobook', 'weather_query', 'calendar_set', 'calendar_query']"
+what's in my inbox since we last looked. when's mark lanegan's next album out. once a new topic on politics comes up alert me,"['email_query', 'qa_factoid', 'news_query']"
+book a train ticket weekend of the twenty sixth phoenix to los angeles. please turn my speakers on google,"['transport_ticket', 'audio_volume_up']"
+olly save all the songs i have listened to more than once. what is four plus five,"['music_likeness', 'qa_maths']"
+convert eight am manila time to new york time. please remove this event from my calendar,"['datetime_convert', 'calendar_remove']"
+next. turn lights off. cancel the breakfast at tiffany's house. if a pencil cost four dollars and a book ten dollars cost how much i should pay if i buy two pencil and three book,"['play_podcasts', 'iot_hue_lightoff', 'calendar_remove', 'qa_maths']"
+please set a reminder in my calendar for my meeting on march twenty five. do you know of any good free knitting patterns. does pink have a new baby,"['calendar_set', 'general_quirky', 'qa_factoid']"
+biography of person,['general_quirky']
+what is the most current exchange rate in china,['qa_currency']
+tweet mobile complaint to samsung. can you tell me the time it is,"['social_post', 'datetime_query']"
+play silent song. what time should i go for a hike. olly get me the popular news from b. b. c.. today is what date,"['play_music', 'weather_query', 'news_query', 'datetime_query']"
+scratch that one from the list. what was the first movie of morgan freeman. time now. i need a cup of coffee,"['lists_remove', 'qa_factoid', 'datetime_query', 'iot_coffee']"
+what color is a dragon fruit. send a replay email,"['qa_factoid', 'email_sendemail']"
+please remind me about this tomorrow. look for shopping mall in sacramento for women's clothes. send an email to my brother and say wedding anniversary,"['calendar_set', 'recommendation_locations', 'email_sendemail']"
+olly i need a drink. what are the events next week. remind me to go to dinner with dave on friday at five p. m.. what's the answer to the universe,"['iot_coffee', 'calendar_query', 'calendar_set', 'qa_factoid']"
+remove my dentist's appointment from today's schedule,['calendar_remove']
+what's this week's weather. is today saint patricks day. can you change the volume at. what is robin williams birthday,"['weather_query', 'calendar_query', 'audio_volume_other', 'qa_factoid']"
+more stock price,['qa_stock']
+please change the light colors to red. pause the book,"['iot_hue_lightchange', 'play_audiobook']"
+how is it outside today. i need to order some food from papa john's. please open chess game i would like to play with you,"['weather_query', 'takeaway_order', 'play_game']"
+i really enjoy this song,['music_likeness']
+how many people are attending my next meeting. define blanket,"['calendar_query', 'qa_definition']"
+turn on favorite songs. tell me what's going on with facebook. please tell me the score of the game,"['play_music', 'social_query', 'general_quirky']"
+trash the current list. it would be great if can give you law consultations. email my boss that i will be late today because of an emergency and apologize to him for missing the meeting,"['lists_remove', 'general_quirky', 'email_sendemail']"
+can you please stop speaking. do i have any appointments. turn off the lights in the bathroom,"['audio_volume_mute', 'calendar_query', 'iot_hue_lightoff']"
+tell me the current time,['datetime_query']
+how much is one plus one. is there anything new in my mailbox,"['qa_maths', 'email_query']"
+post the message now. one plus two equal,"['social_post', 'qa_maths']"
+social media. what do i need to make lamb pathia. what is the time in las vegas. olly i just cleaned my car,"['social_query', 'cooking_recipe', 'datetime_query', 'general_quirky']"
+what's the time in australia. i would like to know the best rating pubs in the local area. what's the date of the winter solstice two years from now,"['datetime_query', 'recommendation_locations', 'datetime_query']"
+i would like to hear some rap music,['play_music']
+does louie's do take out. set a meeting between myself and john at two p. m. tomorrow. hey olly i like music by sigur ros. which ocean touches at our continent,"['takeaway_query', 'calendar_set', 'music_likeness', 'qa_factoid']"
+please power down. does allearsnet have a new podcast. need to check my list. put on the vacuum on now and clean the living room,"['iot_wemo_off', 'play_podcasts', 'lists_query', 'iot_cleaning']"
+olly how long should i boil the eggs. add broccoli to my grocery list. what is the time difference between here and japan. could you tell me the time in london,"['cooking_recipe', 'lists_createoradd', 'datetime_convert', 'datetime_query']"
+send an email to peter and ask him how is he now can i do something to help him. slow down the speaker volume. how big is the cosmos,"['email_sendemail', 'audio_volume_down', 'qa_factoid']"
+tell me what shops are nearby. book a train ticket for one one way for this tuesday at nine am,"['recommendation_locations', 'transport_ticket']"
+play it again please,['play_music']
+tell my meetings for tomorrow morning. clear the list. find the ways of travel for the same,"['calendar_query', 'lists_remove', 'transport_query']"
+is the last order is ready,['takeaway_query']
+tell me today's direction. what's the funniest joke you know. i do not know how to answer this question you left a word or two out. can you send the email to the new email id,"['transport_query', 'general_joke', 'general_quirky', 'email_sendemail']"
+did i receive any new emails from dan. who are your developers,"['email_query', 'general_quirky']"
+let me know when you hear about france. remind me of how many lists i have,"['news_query', 'lists_query']"
+wooo,['general_quirky']
+what does obama do in his day to day life. i want to know about the brexit,"['general_quirky', 'news_query']"
+schedule a lunch meeting with brent on wednesday at noon. alexa please turn down the lights in the house. do i need to do anything today,"['calendar_set', 'iot_hue_lightdim', 'calendar_query']"
+what can i do in berlin. tell me the info about india's geography,"['recommendation_events', 'qa_factoid']"
+silently adjust. remove the old music list. will i need to shovel my driveway this morning,"['audio_volume_mute', 'lists_remove', 'weather_query']"
+show latest email. play any pop f. m. channel,"['email_query', 'play_radio']"
+is calendar event true,['calendar_query']
+today i saw a bulldog. who was the current prime minister of britain,"['general_quirky', 'qa_factoid']"
+tell me when i should leave for a scheduled event so that i am on time. time difference between u. k. and us,"['calendar_set', 'datetime_convert']"
+do i have appointments today. bring up papa pear saga. make sure there is no events on my calendar,"['calendar_query', 'play_game', 'calendar_remove']"
+email karen about the budget meeting. is there any upcoming events. anything interesting from bob's news. which song is this one,"['email_sendemail', 'calendar_query', 'news_query', 'music_query']"
+what do i have planned for this week,['calendar_query']
+olly put dark colors instead of light ones in the house. i had food as soon as i got up. book train best deal,"['iot_hue_lightchange', 'general_quirky', 'transport_ticket']"
+i want you to make alert in the evening about upcoming meeting,['calendar_set']
+what happened to the dow jones today. have i received any emails with tracking numbers,"['qa_stock', 'email_query']"
+what's a good joke,['general_joke']
+tag this song with five stars,['music_likeness']
+did i receive any new email from robert,['email_query']
+i want to hear any songs that got grammys this year,['play_music']
+did i get an email from paul. is it anyone i knows birthday this month,"['email_query', 'email_querycontact']"
+can you let amazon know that this new phone case is junk,['social_post']
+how old is mariah carey. quiet mode on until i am home from work,"['qa_factoid', 'audio_volume_mute']"
+get rid of the events on the nineteenth from my calendar. can you list out my meetings today. create a list that is available,"['calendar_remove', 'calendar_query', 'lists_createoradd']"
+what's a good joke,['general_joke']
+add the post office to my list of errands for saturday,['lists_createoradd']
+what day of the week does christmas fall on this year. play netflix on my p. s. four. what store is having sales tomorrow. where's the closest zoo to where i'm at,"['datetime_query', 'play_radio', 'general_quirky', 'recommendation_locations']"
+open pandora,['play_radio']
+show weather,['weather_query']
+remove that item,['lists_remove']
+olly i just cleaned my car,['general_quirky']
+what time is it in austin. please play shape of you by said sheeran. let's play hits on the radio. can you tell me about animal kingdom in amazon forest,"['datetime_query', 'play_music', 'play_radio', 'general_quirky']"
+reply to johns email. tell me if i have new emails. what is the menu today add some boiled vegetables also to it. what kind of weather should i expect this week,"['email_sendemail', 'email_query', 'cooking_recipe', 'weather_query']"
+open the radio app. seven hundred,"['play_radio', 'datetime_convert']"
+delete my meeting for two o'clock p. m. today. open audio book history of rome,"['calendar_remove', 'play_audiobook']"
+create a meeting event in my calendar,['calendar_set']
+get me latest updates from facebook. turn on favorite songs. who am i meeting today. where jackie chan currently live,"['social_query', 'play_music', 'calendar_query', 'qa_factoid']"
+i want to listen to a sports podcast. when is my brunch with jennifer. check mail for anything from shelly,"['play_podcasts', 'calendar_query', 'email_query']"
+what happened to the dow jones today. check any mail from amazon,"['qa_stock', 'email_query']"
+play britney spears live concert series. reply to johns email,"['play_radio', 'email_sendemail']"
+set a repeating reminder alarm for the facebook event i have to attend on seventh april. i would like the like in the kitchen to be a different color,"['alarm_set', 'iot_hue_lightchange']"
+what is the stock price of hdfc. what's the temperature outside,"['qa_stock', 'weather_query']"
+show me my events. play me a song by van halen. what i am going to do today. mark today as the start of my diet,"['calendar_query', 'play_music', 'lists_query', 'calendar_set']"
+i have a function at washington tomorrow remind it,['calendar_set']
+show me tomorrows weather in this area. yesterday at noontime in times square what was the protest about. show me events in sacramento. olly do i have any new emails,"['weather_query', 'news_query', 'recommendation_events', 'email_query']"
+what is the first metro to d. c.,['transport_query']
+it is a sunny day today right,['weather_query']
+activate the roomba,['iot_cleaning']
+divide seventy six in two parts. turn off the socket. next play summer lovin. remove pencil from stationary,"['qa_maths', 'iot_wemo_off', 'play_music', 'lists_remove']"
+turn off the dining room,['iot_hue_lightoff']
+switch off the lights. music third day,"['iot_hue_lightoff', 'play_music']"
+text an email to donna hey what are you doing today,['email_sendemail']
+please make me coffee without sweetener. tell interesting news,"['iot_coffee', 'news_query']"
+any special events on my list,['lists_query']
+don't speak for an hour. give me the details on purchase order,"['audio_volume_mute', 'lists_query']"
+make coffee at three,['iot_coffee']
+send an email to my assistant clara to cancel all appointments for tomorrow. save this song to playlist,"['email_sendemail', 'music_likeness']"
+remind me about this. silence volume on speakers. please change the light colors to red,"['calendar_set', 'audio_volume_mute', 'iot_hue_lightchange']"
+add a wrist watch to the shopping list. when is the next friday the thirteenth. olly clear the list,"['lists_createoradd', 'datetime_query', 'lists_remove']"
+resume animal farm. shuffle songs by coldplay. what is the increase in stock value over the past week of disney. i want to send an email to my family do you help me,"['play_audiobook', 'play_music', 'qa_stock', 'email_sendemail']"
+what's the next event at the library,['recommendation_events']
+i need good ideas for cooking,['cooking_recipe']
+turn down lights. what's the best way to sheffield. what is the exchange rate between us and mexico,"['iot_hue_lightdim', 'transport_query', 'qa_currency']"
+olly how long should i boil the egg. inform my group that the new meeting date is tomorrow. clear everything off my calendar for the rest of the year,"['cooking_recipe', 'calendar_set', 'calendar_remove']"
+please tweet at pizzahut i've been waiting for my delivery for now number nothappy. add the post office to my list of errands for saturday. how much is the british pound. what's on your mind,"['social_post', 'lists_createoradd', 'qa_currency', 'general_quirky']"
+play songs,['play_music']
+remind me about my schedule for the afternoon,['calendar_set']
+suffering consequences,['qa_definition']
+disable smart socket. email my boss that i will be late today because of an emergency and apologize to him for missing the meeting. to compare in people,"['iot_wemo_off', 'email_sendemail', 'qa_factoid']"
+any events this weekend in pondichery. keep me informed about bitcoin price,"['recommendation_events', 'news_query']"
+turn down the lights to medium. play my favorite book,"['iot_hue_lightoff', 'play_audiobook']"
+ok google play one hundred and six point seven,['play_radio']
+cancel my seven am alarm,['alarm_remove']
+love. go back to previous episode of podcast. do we have morgan's office's number,"['general_quirky', 'play_podcasts', 'email_querycontact']"
+read me my list for shopping. remind me about my meeting an hour before it begins. should i wear raincoat before getting out. can i carry out with this restaurant,"['lists_query', 'calendar_set', 'weather_query', 'takeaway_query']"
+do i have any new emails in my inbox today. what's jlo up to,"['email_query', 'general_quirky']"
+i was chased by a dog. twitter to destination x. l. that they run out of sizes too fast. let me hear my list,"['general_quirky', 'social_post', 'lists_query']"
+what information should i know for my meetings today. delete item from list. i want to hear the latest world news from today,"['calendar_query', 'lists_remove', 'news_query']"
+is there snow in the forecast. what is the traffic like now. send a funny message to all of my friends,"['weather_query', 'transport_traffic', 'social_post']"
+get me a uber,['transport_taxi']
+how many eggs do i need for an omelet,['cooking_recipe']
+nice lyrics. what groups are listed in my contacts. i need to ask you how many angels can dance on a pinhead. recite the schedules of the list,"['music_likeness', 'lists_query', 'general_quirky', 'lists_query']"
+from now on mute,['audio_volume_mute']
+uber me to the airport. hey reply a mail which i received. is my reminder alarm set for dance class. please check my emails for me,"['transport_taxi', 'email_sendemail', 'alarm_query', 'email_query']"
+add my car payment on the twelfth in my calendar. how much is the us dollar versus the pound,"['calendar_set', 'qa_currency']"
+please make me coffee without sweetener. set a reminder for this. post hey everyone on facebook,"['iot_coffee', 'calendar_set', 'social_post']"
+add to list. olly put dark colors instead of light ones in the house,"['lists_createoradd', 'iot_hue_lightchange']"
+start the vacuum. is it cold outside. remove the alarm for tomorrow. have i received new emails in the last ten minutes,"['iot_cleaning', 'weather_query', 'alarm_remove', 'email_query']"
+play racing. book me a taxi to leith in half an hour. lets send a tweet. where is the car,"['play_game', 'transport_taxi', 'social_post', 'audio_volume_up']"
+who is celebrity. please search the internet and display the suitable youtube videos for cooking italian foods. get hourly notification on sports news,"['qa_factoid', 'cooking_recipe', 'news_query']"
+find an interesting podcast about last pritzker price winners. what is the deepest point on earth. what's the news for today,"['play_podcasts', 'qa_factoid', 'news_query']"
+what's the current weather. what's the temperature outside. is the twenty second on a wednesday,"['weather_query', 'weather_query', 'datetime_query']"
+remind me the wedding on time to buy a present. let's suck out the dust. exchange rate of euro with dollar,"['calendar_set', 'iot_cleaning', 'qa_currency']"
+show me the latest emails from amazon. i want to send an email to my family do you help me. where does kate middleton buy her kids clothes,"['email_query', 'email_sendemail', 'general_quirky']"
+cancel my seven am alarm. i would like to reply to sarah's email,"['alarm_remove', 'email_sendemail']"
+play football with me. i'd like you to turn turn on the t. v.,"['play_game', 'iot_wemo_on']"
+who is the current prime minister of russia,['qa_factoid']
+turn off the sounds. add shopping to my calendar for tomorrow. what year did this song come out. check mail for anything from shelly,"['audio_volume_mute', 'calendar_set', 'music_query', 'email_query']"
+please skip two songs,['music_settings']
+let me know in two hours that i have to leave for my violin lesson that's at four p. m. at musicworkz,['calendar_set']
+play kiss f. m. for me,['play_radio']
+siri open twitter tweet at potus sucks. what's the current time in eastern standard,"['social_post', 'datetime_query']"
+can you tell me the time it is. set the speakers to mute,"['datetime_query', 'audio_volume_mute']"
+i need to know if mr. pizza delivers. play a nirvana playlist. schedule a meeting with matt at eleven am on thursday,"['takeaway_query', 'play_music', 'calendar_set']"
+respond to the email from john doe. has john sent me an email. what is the exchange rate of euro and dollar. robot vacuum the living room now,"['email_sendemail', 'email_query', 'qa_currency', 'iot_cleaning']"
+play the most recent podcast for this american life,['play_podcasts']
+is it cold outside. knock knock,"['weather_query', 'general_joke']"
+add new item to list,['lists_createoradd']
+when i came back from this place,['general_quirky']
+play all music by billy joel. what is the us dollar and euro exchange rate. what should i watch today,"['play_music', 'qa_currency', 'recommendation_movies']"
+tweet at. send an email to mom to tell her wyatt's birthday party is on sunday. shut the lights off,"['social_post', 'email_sendemail', 'iot_hue_lightoff']"
+delete my list. will i need an umbrella this week,"['lists_remove', 'weather_query']"
+new updates. i want to hear a joke,"['social_query', 'general_joke']"
+please repeat my shopping list. remind me of how many lists i have,"['lists_query', 'lists_query']"
+show me news about the environment,['news_query']
+what brand hair spray does donald trump use. send email to joseph at gmail dot com,"['qa_factoid', 'email_sendemail']"
+hi can you please turn lower the lights. what is twelve plus one hundred and ninety six. what's going on around here this weekend. tell me what the product of eighteen and thirty one is,"['iot_hue_lightdim', 'qa_maths', 'recommendation_events', 'qa_maths']"
+how do i book a train ticket online. set the coffee maker to on,"['transport_query', 'iot_coffee']"
+house can you make all the lights in the house blue. is soft cheese better than hard,"['iot_hue_lightchange', 'cooking_recipe']"
+i want to see the next podcast available,['play_podcasts']
+are there any good pizza places around here. display date,"['recommendation_locations', 'datetime_query']"
+what is the time difference between california and new york. i would like to hear jazz music,"['datetime_convert', 'play_music']"
+refresh my inbox and inform me about new emails,['email_query']
+where i went today. what does situation mean,"['general_quirky', 'qa_definition']"
+purchase ticket to new york city on train,['transport_ticket']
+define speaker. what is the current traffic situation,"['qa_definition', 'transport_traffic']"
+spell and define oscillate. play next reason podcast,"['qa_definition', 'play_podcasts']"
+what music is currently playing on,['music_query']
+weekly weather report,['weather_query']
+could you please confirm if paradise does takeaway,['takeaway_query']
+keep playing war and peace. what is the definition of timeliness,"['play_audiobook', 'qa_definition']"
+remind me the meeting with allen on fifteenth march,['calendar_set']
+remove shopping list. my day was extremely hard. dorothy needs to talk to me about our divorce can you please set up a meeting as soon as i am available,"['lists_remove', 'general_quirky', 'calendar_set']"
+what's the next event at the library. tomorrow's temperature is to be hot yes or no. play pandora nineties dance party. what is my next reminder,"['recommendation_events', 'weather_query', 'play_music', 'calendar_query']"
+can you please download my podcast file available in internet and play it once. can you create a sugar free diet for me and create a shopping list for the ingredients. quiet mode on until i am home from work,"['play_podcasts', 'general_quirky', 'audio_volume_mute']"
+set an alert for two p. m.. i need some details about bruce lee please assist,"['alarm_set', 'qa_factoid']"
+what ingredient can be used instead of saffron,['cooking_recipe']
+please let me know the dog shows events going on in my home town. cancel next meeting,"['recommendation_events', 'calendar_remove']"
+show me the events in my work calendar for next week. tweet a message to suqcom that i am still waiting for my delivery,"['calendar_set', 'social_post']"
+check mail for anything from shelly. is it cold outside. please remind me about this tomorrow. birthday,"['email_query', 'weather_query', 'calendar_set', 'calendar_set']"
+turn off kitchen light. info of the upcoming events,"['iot_hue_lightoff', 'recommendation_events']"
+is it raining tonight. tweet to apple about non receipt of iphone i sent for repairs last week,"['weather_query', 'social_post']"
+what is the yen worth. alexa remove dinner with mike from my calendar. set a reminder for my daughters birthday. do i have any unread emails,"['qa_currency', 'calendar_remove', 'calendar_set', 'email_query']"
+tell me when i should leave for a scheduled event so that i am on time. current time in cpt,"['calendar_set', 'datetime_query']"
+explain how is u. s. a. better than other countries,['general_quirky']
+remove meeting reminder for tuesday,['calendar_remove']
+i want to thank everyone for the birthday wishes,['social_post']
+please send an email to uncle john with the following yes i can make it. what day is halloween this year,"['email_sendemail', 'datetime_query']"
+post this to my facebook l. o. l.,['social_post']
+tell me the temperature. train times from near me to location. i like the songs of yeshudas please play it,"['weather_query', 'transport_query', 'music_likeness']"
+set alarm at six thirty am,['alarm_set']
+i want some jazz music to play. for every odd numbered sunday set a reminder for,"['play_music', 'calendar_set']"
+what is the funniest joke ever. alexa i've got dollars for the month how much can i spend every day this month. what is the definition of forensic. create a meeting event in my calendar,"['general_joke', 'qa_maths', 'qa_definition', 'calendar_set']"
+i would like my robot to feed and pet my dog when i'm not home,['general_quirky']
+what are the events next week. do add this on my calendar,"['calendar_query', 'calendar_set']"
+play country radio. please describe that object for me,"['play_radio', 'qa_definition']"
+alexa remove dinner with mike from my calendar. write a reply to my mother's email,"['calendar_remove', 'email_sendemail']"
+email donna plans for today. is it ten. please send a mail to my friend divya how are you,"['email_sendemail', 'datetime_query', 'email_sendemail']"
+what is the news today. what's for today. who is the singer of hotel california,"['news_query', 'calendar_query', 'music_query']"
+news of the train wreck. describe item xy. play and shuffle all slow music songs,"['news_query', 'qa_definition', 'play_music']"
+please check all new email of income tax department. during the timeframe of february one and march sixteen what meetings occurred,"['email_query', 'calendar_query']"
+do you have any suggestion action movies,['recommendation_movies']

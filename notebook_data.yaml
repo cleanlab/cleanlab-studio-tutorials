@@ -61,6 +61,9 @@ TLM Use Cases:
     sidebar_label: "Data Curation/Tagging for RAG"
   tlm_langchain:
     sidebar_label: "Trustworthiness scoring for LangChain"
+  tlm_guardrails:
+    sidebar_label: "Chatbot Guardrails"
+
 
 Cleanlab Studio Web:
   data_labeling:

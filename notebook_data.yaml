@@ -64,7 +64,6 @@ TLM Use Cases:
   tlm_guardrails:
     sidebar_label: "Chatbot Guardrails"
 
-
 Cleanlab Studio Web:
   data_labeling:
     sidebar_label: "Data Labeling"

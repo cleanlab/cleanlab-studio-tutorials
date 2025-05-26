@@ -47,22 +47,22 @@ Trustworthy Language Model:
 TLM Use Cases:
   tlm_rag:
     sidebar_label: "Trustworthy RAG"
+  tlm_guardrails:
+    sidebar_label: "Chatbot Guardrails"
   tlm_data_extraction:
     sidebar_label: "Trustworthy Data Extraction"
-  tlm_annotation:
-    sidebar_label: "Trustworthy Data Annotation"
+  tlm_langchain:
+    sidebar_label: "Trustworthiness scoring for LangChain"
   zero_shot_classification:
-    sidebar_label: "Trustworthy Zero-Shot Classification"
+    sidebar_label: "Trustworthy Classification"
   tlm_yes_no_decision:
     sidebar_label: "Yes/No Decisions"
+  tlm_annotation:
+    sidebar_label: "Trustworthy Data Annotation"
   instruction_tuning_data:
     sidebar_label: "Discover Bad Responses or Data"
   tlm_data_curation_for_reliable_rag:
-    sidebar_label: "Data Curation/Tagging for RAG"
-  tlm_langchain:
-    sidebar_label: "Trustworthiness scoring for LangChain"
-  tlm_guardrails:
-    sidebar_label: "Chatbot Guardrails"
+    sidebar_label: "Data Curation/Tagging for RAG"  
 
 Cleanlab Studio Web:
   data_labeling:

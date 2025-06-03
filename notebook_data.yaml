@@ -55,6 +55,8 @@ TLM Use Cases:
     sidebar_label: "Trustworthiness scoring for LangChain"
   zero_shot_classification:
     sidebar_label: "Trustworthy Classification"
+  tlm_conversation:
+    sidebar_label: "Multi-turn Conversations"
   tlm_yes_no_decision:
     sidebar_label: "Yes/No Decisions"
   tlm_annotation:

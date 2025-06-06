@@ -53,8 +53,6 @@ TLM Use Cases:
     sidebar_label: "Trustworthy Data Extraction"
   tlm_agents:
     sidebar_label: "Trustworthy Agents"
-  tlm_langchain:
-    sidebar_label: "Trustworthiness scoring for LangChain"
   tlm_conversation:
     sidebar_label: "Multi-turn Conversations"
   zero_shot_classification:
@@ -65,6 +63,8 @@ TLM Use Cases:
     sidebar_label: "Trustworthy Data Annotation"
   instruction_tuning_data:
     sidebar_label: "Discover Bad Responses or Data"
+  tlm_langchain:
+    sidebar_label: "Trust scoring for LangChain"
   tlm_data_curation_for_reliable_rag:
     sidebar_label: "Data Curation/Tagging for RAG"  
 

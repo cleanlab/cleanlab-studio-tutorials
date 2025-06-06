@@ -51,12 +51,14 @@ TLM Use Cases:
     sidebar_label: "Chatbot Guardrails"
   tlm_data_extraction:
     sidebar_label: "Trustworthy Data Extraction"
+  tlm_agents:
+    sidebar_label: "Trustworthy Agents"
   tlm_langchain:
     sidebar_label: "Trustworthiness scoring for LangChain"
-  zero_shot_classification:
-    sidebar_label: "Trustworthy Classification"
   tlm_conversation:
     sidebar_label: "Multi-turn Conversations"
+  zero_shot_classification:
+    sidebar_label: "Trustworthy Classification"
   tlm_yes_no_decision:
     sidebar_label: "Yes/No Decisions"
   tlm_annotation:

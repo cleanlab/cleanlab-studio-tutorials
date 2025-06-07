@@ -59,12 +59,12 @@ TLM Use Cases:
     sidebar_label: "Trustworthy Classification"
   tlm_yes_no_decision:
     sidebar_label: "Yes/No Decisions"
+  tlm_langchain:
+    sidebar_label: "Trust scoring for LangChain"
   tlm_annotation:
     sidebar_label: "Trustworthy Data Annotation"
   instruction_tuning_data:
     sidebar_label: "Discover Bad Responses or Data"
-  tlm_langchain:
-    sidebar_label: "Trust scoring for LangChain"
   tlm_data_curation_for_reliable_rag:
     sidebar_label: "Data Curation/Tagging for RAG"  
 

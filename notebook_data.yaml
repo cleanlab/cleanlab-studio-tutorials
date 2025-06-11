@@ -1,34 +1,10 @@
 Codex:
-  LlamaIndex_CodexAsTool:
-    sidebar_label: "Codex as a Tool"
-  LlamaIndex_ToolCalls:
-    sidebar_label: "Adding Tools to RAG"
-  langchain_CodexAsTool:
-    sidebar_label: "Codex as a Tool"
-  langchain_ToolCalls:
-    sidebar_label: "Adding Tools to RAG"
   OpenAIAssistants_CodexAsBackup:
     sidebar_label: "Codex as a Backup"
-  OpenAIAssistants_AddingCodexAsTool:
-    sidebar_label: "Codex as a Tool"
-  OpenAIAssistants_ToolCalls:
-    sidebar_label: "Build an Assistant"
   AWSBedrock_CodexAsBackup:
     sidebar_label: "Codex as a Backup"
-  AWSBedrock_AddingCodexAsTool:
-    sidebar_label: "Codex as a Tool"
-  AWSBedrock_ToolCalls:
-    sidebar_label: "Adding Tools to RAG"
   validator:
     sidebar_label: "Codex as a Backup"
-  OtherRAG_CodexAsTool:
-    sidebar_label: "Codex as a Tool"
-  OtherRAG_ToolCalls:
-    sidebar_label: "Adding Tools to RAG"
-  smolagents_AddingCodexAsTool:
-    sidebar_label: "Codex as a Tool"
-  smolagents_ToolCalls:
-    sidebar_label: "Adding Tools to RAG"
 
 
 Trustworthy Language Model:

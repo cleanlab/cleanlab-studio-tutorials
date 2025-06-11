@@ -38,20 +38,8 @@ We provide tutorials for many different RAG frameworks, as well as [types of Cod
                                 "value": "Backup (recommended)",
                                 "contents": "[Guide: Codex as a Backup with OpenAI Assistants](/codex/tutorials/openai/OpenAIAssistants_CodexAsBackup/)"
                             },
-                            {
-                                "value": "Tool",
-                                "contents": "[Guide: Codex as a Tool with OpenAI Assistants](/codex/tutorials/openai/OpenAIAssistants_AddingCodexAsTool/)"
-                            }
                         ]
                     }
-                },
-                {
-                    "value": "LangChain",
-                    "contents": "[Guide: Codex as a Tool with LangChain](/codex/tutorials/langchain/langchain_CodexAsTool/)"
-                },
-                {
-                    "value": "LlamaIndex",
-                    "contents": "[Guide: Codex as a Tool with LlamaIndex](/codex/tutorials/llama/LlamaIndex_CodexAsTool/)"
                 },
                 {
                     "value": "AWS Knowledge Bases",
@@ -62,16 +50,8 @@ We provide tutorials for many different RAG frameworks, as well as [types of Cod
                                 "value": "Backup (recommended)",
                                 "contents": "[Guide: Codex as a Backup with AWS Knowledge Bases](/codex/tutorials/aws/AWSBedrock_CodexAsBackup/)"
                             },
-                            {
-                                "value": "Tool",
-                                "contents": "[Guide: Codex as Tool with AWS Knowledge Bases](/codex/tutorials/aws/AWSBedrock_AddingCodexAsTool/)"
-                            }
                         ]
                     }
-                },
-                {
-                    "value": "smolagents",
-                    "contents": "[Guide: Codex as a Tool with smolagents](/codex/tutorials/smolagents/smolagents_AddingCodexAsTool/)"
                 },
                 {
                     "value": "Other RAG Frameworks",
@@ -82,10 +62,6 @@ We provide tutorials for many different RAG frameworks, as well as [types of Cod
                                 "value": "Backup (recommended)",
                                 "contents": "[Guide: Codex as a Backup with any RAG framework](/codex/tutorials/other_rag_frameworks/validator/)"
                             },
-                            {
-                                "value": "Tool",
-                                "contents": "[Guide: Codex as a Tool with any RAG framework](/codex/tutorials/other_rag_frameworks/OtherRAG_CodexAsTool/)"
-                            }
                         ]
                     }
                 }

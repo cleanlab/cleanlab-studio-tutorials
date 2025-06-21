@@ -27,8 +27,10 @@ TLM Use Cases:
     sidebar_label: "Chatbot Guardrails"
   tlm_data_extraction:
     sidebar_label: "Trustworthy Data Extraction"
+  tlm_existing_agent:
+    sidebar_label: "Trustworthy Agents (LangGraph Prebuilt)"
   tlm_agents:
-    sidebar_label: "Trustworthy Agents"
+    sidebar_label: "Trustworthy Agents (Custom)"
   tlm_conversation:
     sidebar_label: "Multi-turn Conversations"
   zero_shot_classification:
@@ -42,7 +44,7 @@ TLM Use Cases:
   instruction_tuning_data:
     sidebar_label: "Discover Bad Responses or Data"
   tlm_data_curation_for_reliable_rag:
-    sidebar_label: "Data Curation/Tagging for RAG"  
+    sidebar_label: "Data Curation/Tagging for RAG"
 
 Cleanlab Studio Web:
   data_labeling:

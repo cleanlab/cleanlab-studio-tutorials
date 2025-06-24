@@ -14,11 +14,12 @@ Trustworthy Language Model:
     sidebar_label: "TLM Advanced Tutorial"
   tlm_custom_eval:
     sidebar_label: "Custom Evaluation Criteria"
-  tlm_custom_model:
-    sidebar_label: "Turn your own LLM into a TLM"
+  tlm_chat_completion:
+    sidebar_label: "TLM for Chat Completions API" 
   tlm_structured_outputs:
-    sidebar_label: "Using TLM via the OpenAI API"
-    
+    sidebar_label: "Using TLM via OpenAI API"
+  tlm_custom_model:
+    sidebar_label: "Turn your LLM into a TLM"
   
 TLM Use Cases:
   tlm_rag:

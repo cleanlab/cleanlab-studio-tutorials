@@ -32,6 +32,8 @@ TLM Use Cases:
     sidebar_label: "Trustworthy Agents (LangGraph Prebuilt)"
   tlm_agents:
     sidebar_label: "Trustworthy Agents (Custom)"
+  tlm_agents_openai:
+    sidebar_label: "Trustworthy Agents (OpenAI Agents SDK)"
   tlm_conversation:
     sidebar_label: "Multi-turn Conversations"
   zero_shot_classification:

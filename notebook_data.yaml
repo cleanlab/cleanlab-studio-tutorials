@@ -34,14 +34,14 @@ TLM Use Cases:
     sidebar_label: "Trustworthy Agents (Custom)"
   tlm_openai_agents:
     sidebar_label: "Trustworthy Agents (OpenAI Agents SDK)"
-  tlm_conversation:
-    sidebar_label: "Multi-turn Conversations"
   zero_shot_classification:
     sidebar_label: "Trustworthy Classification"
   tlm_yes_no_decision:
     sidebar_label: "Yes/No Decisions"
   tlm_langchain:
     sidebar_label: "Trust scoring for LangChain"
+  tlm_conversation:
+    sidebar_label: "Multi-turn Conversations"
   tlm_annotation:
     sidebar_label: "Trustworthy Data Annotation"
   instruction_tuning_data:

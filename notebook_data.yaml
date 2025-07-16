@@ -18,6 +18,8 @@ Trustworthy Language Model:
     sidebar_label: "TLM for Chat Completions API" 
   tlm_structured_outputs:
     sidebar_label: "Structured Outputs"
+  tlm_tool_calls:
+    sidebar_label: "Tool Calls"
   tlm_custom_model:
     sidebar_label: "Turn your LLM into a TLM"
   
@@ -34,8 +36,6 @@ TLM Use Cases:
     sidebar_label: "Trustworthy Agents (Custom)"
   tlm_openai_agents:
     sidebar_label: "Trustworthy Agents (OpenAI Agents SDK)"
-  tlm_tool_calls:
-    sidebar_label: "Scoring Tool Calls"
   zero_shot_classification:
     sidebar_label: "Trustworthy Classification"
   tlm_yes_no_decision:

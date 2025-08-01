@@ -1,8 +1,8 @@
 {
-    "collapsible": true,
-    "collapsed": false,
-    "link": {
-        "type": "doc",
-        "id": "index"
-    }
+  "collapsible": true,
+  "collapsed": false,
+  "link": {
+    "type": "doc",
+    "id": "index"
+  }
 }

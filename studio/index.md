@@ -1,4 +1,4 @@
-# Welcome to the Cleanlab Studio tutorials! 
+# Welcome to the Cleanlab Studio tutorials!
 
 Here you can find step-by-step tutorials to apply Cleanlab Studio to specific types of datasets and business problems.
 

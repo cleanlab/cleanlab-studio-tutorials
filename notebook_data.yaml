@@ -10,7 +10,6 @@ Codex:
   Azure_Guardrails_CodexAsBackup:
     sidebar_label: "Codex as a Backup"
 
-
 Trustworthy Language Model:
   tlm:
     sidebar_label: "TLM Quickstart"
@@ -19,14 +18,14 @@ Trustworthy Language Model:
   tlm_custom_eval:
     sidebar_label: "Custom Evaluation Criteria"
   tlm_chat_completion:
-    sidebar_label: "TLM for Chat Completions API" 
+    sidebar_label: "TLM for Chat Completions API"
   tlm_structured_outputs:
     sidebar_label: "Structured Outputs"
   tlm_tool_calls:
     sidebar_label: "Tool Calls"
   tlm_custom_model:
     sidebar_label: "Turn your LLM into a TLM"
-  
+
 TLM Use Cases:
   tlm_rag:
     sidebar_label: "Trustworthy RAG"

@@ -15,7 +15,7 @@ The integrations below show how to use TLM with various 3rd party LLM evaluation
 
 [Arize Phoenix](https://github.com/Arize-ai/phoenix) is an open-source AI observability platform designed for experimentation, evaluation, and troubleshooting.
 
-- [Documentation for Cleanlab Integration](https://docs.arize.com/phoenix/integrations/evaluation-libraries/cleanlab)
+- [Documentation for Cleanlab Integration](https://arize.com/docs/phoenix/integrations/evaluation-integrations/cleanlab)
 - [Github Example](https://github.com/Arize-ai/phoenix/blob/main/tutorials/integrations/evaluating_traces_cleanlabTLM.ipynb)
 - [Colab Example](https://colab.research.google.com/github/Arize-ai/phoenix/blob/main/tutorials/integrations/evaluating_traces_cleanlabTLM.ipynb)
 

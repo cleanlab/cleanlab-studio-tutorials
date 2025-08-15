@@ -6,7 +6,9 @@ Codex:
   validator:
     sidebar_label: "Codex as a Backup for Single-turn Q&A Apps"
   validator_conversational:
-    sidebar_label: "Codex as a Backup for Conversational Apps"
+    sidebar_label: "Codex as a Backup for Chat Apps"
+  validator_tools:
+    sidebar_label: "Codex as a Backup for Tool Calling Apps"
   Azure_Guardrails_CodexAsBackup:
     sidebar_label: "Codex as a Backup"
 

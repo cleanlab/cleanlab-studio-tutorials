@@ -1,7 +1,7 @@
 ---
 title: Tutorials for other RAG frameworks
 sidebar_label: Tutorials for other RAG frameworks
-sidebar_position: 6
+sidebar_position: 4
 ---
 
 # Integrating Codex into other RAG frameworks

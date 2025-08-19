@@ -1,16 +1,16 @@
 Codex:
   OpenAIAssistants_CodexAsBackup:
-    sidebar_label: "Codex as a Backup"
+    sidebar_label: "Cleanlab with OpenAI Assistants"
   AWSBedrock_CodexAsBackup:
-    sidebar_label: "Codex as a Backup"
+    sidebar_label: "Cleanlab with AWS Knowledge Bases"
   validator:
-    sidebar_label: "Codex as a Backup for Single-turn Q&A Apps"
+    sidebar_label: "Cleanlab for Single-turn Q&A Apps"
   validator_conversational:
-    sidebar_label: "Codex as a Backup for Chat Apps"
+    sidebar_label: "Cleanlab for Conversational Apps"
   validator_tools:
     sidebar_label: "Codex as a Backup for Tool Calling Apps"
   Azure_Guardrails_CodexAsBackup:
-    sidebar_label: "Codex as a Backup"
+    sidebar_label: "Cleanlab with Azure AI"
 
 Trustworthy Language Model:
   tlm:

@@ -8,8 +8,8 @@ import TutorialFinder from "@site/src/components/TutorialFinder/TutorialFinder";
 
 # Integrating the Cleanlab AI Platform into your AI application
 
-Here you can find step-by-step developer tutorials to easily integrate Cleanlab with your existing RAG app.
-We provide tutorials for many different RAG frameworks, as well as [types of Cleanlab integrations](/codex/concepts/integrations/).
+Here you can find step-by-step developer tutorials to easily integrate Cleanlab with your existing AI app, no matter how it is architected.
+We provide tutorials for many different AI frameworks, as well as [types of Cleanlab integrations](/codex/concepts/integrations/).
 
 <div className="cl-design-system flex flex-col min-h-[calc(100vh-140px)] justify-between">
 <div className="flex flex-col gap-13">
@@ -17,12 +17,12 @@ We provide tutorials for many different RAG frameworks, as well as [types of Cle
     {
         "questions": {
             "rag": {
-                "title": "Select your RAG framework",
-                "placeholder": "RAG framework"
+                "title": "Select your AI framework",
+                "placeholder": "AI framework"
             },
             "integration": {
                 "title": "Select an integration style",
-                "description": "These are the recommended [ways to integrate](/codex/concepts/integrations) Cleanlab for your current RAG setup.",
+                "description": "These are the recommended [ways to integrate](/codex/concepts/integrations) Cleanlab for your current AI system",
                 "placeholder": "Integration style"
             }
         },
@@ -30,13 +30,25 @@ We provide tutorials for many different RAG frameworks, as well as [types of Cle
             "question": "rag",
             "options": [
                 {
-                    "value": "OpenAI Assistants",
+                    "value": "Custom AI",
                     "next": {
                         "question": "integration",
                         "options": [
                             {
-                                "value": "Cleanlab with OpenAI Assistants",
-                                "contents": "[Guide: Cleanlab with OpenAI Assistants](/codex/tutorials/openai/OpenAIAssistants_CodexAsBackup/)"
+                                "value": "Cleanlab with your custom AI architecture",
+                                "contents": "[Guide: Cleanlab with any custom AI architecture](/codex/tutorials/other_rag_frameworks/validator/)"
+                            },
+                        ]
+                    }
+                },
+                {
+                    "value": "Azure AI",
+                    "next": {
+                        "question": "integration",
+                        "options": [
+                            {
+                                "value": "Cleanlab with Azure AI",
+                                "contents": "[Guide: Cleanlab with Azure AI](/codex/tutorials/azure/Azure_Guardrails_CodexAsBackup/)"
                             },
                         ]
                     }
@@ -54,13 +66,13 @@ We provide tutorials for many different RAG frameworks, as well as [types of Cle
                     }
                 },
                 {
-                    "value": "Other RAG Frameworks",
+                    "value": "OpenAI Assistants",
                     "next": {
                         "question": "integration",
                         "options": [
                             {
-                                "value": "Cleanlab with any RAG framework",
-                                "contents": "[Guide: Cleanlab with any RAG framework](/codex/tutorials/other_rag_frameworks/validator/)"
+                                "value": "Cleanlab with OpenAI Assistants",
+                                "contents": "[Guide: Cleanlab with OpenAI Assistants](/codex/tutorials/openai/OpenAIAssistants_CodexAsBackup/)"
                             },
                         ]
                     }

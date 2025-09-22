@@ -66,6 +66,18 @@ We provide tutorials for many different AI frameworks, as well as [types of Clea
                     }
                 },
                 {
+                    "value": "AWS Strands Agents",
+                    "next": {
+                        "question": "integration",
+                        "options": [
+                            {
+                                "value": "Cleanlab with AWS Strands Agents",
+                                "contents": "[Guide: Cleanlab with AWS Strands Agents](/codex/tutorials/strands/strands_integration_tutorial/)"
+                            },
+                        ]
+                    }
+                },
+                {
                     "value": "OpenAI Assistants",
                     "next": {
                         "question": "integration",

@@ -11,6 +11,8 @@ Codex:
     sidebar_label: "Cleanlab for Tool Calling Apps"
   Azure_Guardrails_CodexAsBackup:
     sidebar_label: "Cleanlab with Azure AI"
+  strands_integration_tutorial:
+    sidebar_label: "Strands Agents with Cleanlab"
 
 Trustworthy Language Model:
   tlm:

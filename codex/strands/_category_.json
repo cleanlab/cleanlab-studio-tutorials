@@ -1,8 +1,7 @@
 {
+  "position": 2,
+  "label": "AWS Strands",
   "collapsible": true,
   "collapsed": false,
-  "link": {
-    "type": "doc",
-    "id": "index"
-  }
+  "link": null
 }

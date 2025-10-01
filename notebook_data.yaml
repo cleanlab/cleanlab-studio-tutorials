@@ -13,6 +13,8 @@ Codex:
     sidebar_label: "Cleanlab with Azure AI"
   strands_integration_tutorial:
     sidebar_label: "Strands Agents with Cleanlab"
+  openai_agents_integration:
+    sidebar_label: "OpenAI Agents SDK with Cleanlab"
 
 Trustworthy Language Model:
   tlm:

@@ -25,6 +25,8 @@ Trustworthy Language Model:
     sidebar_label: "Custom Evaluation Criteria"
   tlm_chat_completion:
     sidebar_label: "TLM for Chat Completions API"
+  tlm_responses:
+    sidebar_label: "TLM for OpenAI Responses API"
   tlm_structured_outputs:
     sidebar_label: "Structured Outputs"
   tlm_tool_calls:

@@ -1,6 +1,4 @@
 Codex:
-  OpenAIAssistants_CodexAsBackup:
-    sidebar_label: "OpenAI Assistants with Cleanlab"
   AWSBedrock_CodexAsBackup:
     sidebar_label: "AWS Knowledge Bases with Cleanlab"
   validator:
@@ -15,6 +13,8 @@ Codex:
     sidebar_label: "Strands Agents with Cleanlab"
   openai_agents_integration:
     sidebar_label: "OpenAI Agents SDK with Cleanlab"
+  OpenAIAssistants_CodexAsBackup:
+    sidebar_label: "OpenAI Assistants with Cleanlab"
 
 Trustworthy Language Model:
   tlm:

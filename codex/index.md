@@ -78,6 +78,18 @@ We provide tutorials for many different AI frameworks, as well as [types of Clea
                     }
                 },
                 {
+                    "value": "OpenAI Agents SDK",
+                    "next": {
+                        "question": "integration",
+                        "options": [
+                            {
+                                "value": "Cleanlab with OpenAI Agents SDK",
+                                "contents": "[Guide: Cleanlab with OpenAI Agents SDK](/codex/tutorials/openai/openai_agents_integration/)"
+                            },
+                        ]
+                    }
+                },
+                {
                     "value": "OpenAI Assistants",
                     "next": {
                         "question": "integration",

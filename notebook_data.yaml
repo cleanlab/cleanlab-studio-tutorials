@@ -1,16 +1,16 @@
 Codex:
   OpenAIAssistants_CodexAsBackup:
-    sidebar_label: "Cleanlab with OpenAI Assistants"
+    sidebar_label: "OpenAI Assistants with Cleanlab"
   AWSBedrock_CodexAsBackup:
-    sidebar_label: "Cleanlab with AWS Knowledge Bases"
+    sidebar_label: "AWS Knowledge Bases with Cleanlab"
   validator:
-    sidebar_label: "Cleanlab for Single-turn Q&A Apps"
+    sidebar_label: "Single-turn Q&A Apps"
   validator_conversational:
-    sidebar_label: "Cleanlab for Conversational Apps"
+    sidebar_label: "Conversational/Chat Apps"
   validator_tools:
-    sidebar_label: "Cleanlab for Tool Calling Apps"
+    sidebar_label: "Tool Calling Apps"
   Azure_Guardrails_CodexAsBackup:
-    sidebar_label: "Cleanlab with Azure AI"
+    sidebar_label: "Azure AI with Cleanlab"
   strands_integration_tutorial:
     sidebar_label: "Strands Agents with Cleanlab"
   openai_agents_integration:
